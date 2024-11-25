@@ -11,7 +11,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-04-01T00:00:00",
+                "fromdate": "2023-04-01",
                 "severity": 5375
             }
         },
@@ -25,7 +25,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-04-08T00:00:00",
+                "fromdate": "2023-04-08",
                 "severity": 14679
             }
         },
@@ -39,7 +39,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-04-06T00:00:00",
+                "fromdate": "2023-04-06",
                 "severity": 5921
             }
         },
@@ -53,7 +53,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-04-05T00:00:00",
+                "fromdate": "2023-04-05",
                 "severity": 5041
             }
         },
@@ -67,7 +67,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-04-04T00:00:00",
+                "fromdate": "2023-04-04",
                 "severity": 10915
             }
         },
@@ -81,7 +81,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-04-04T00:00:00",
+                "fromdate": "2023-04-04",
                 "severity": 14792
             }
         },
@@ -95,7 +95,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-04-08T00:00:00",
+                "fromdate": "2023-04-08",
                 "severity": 6156
             }
         },
@@ -109,7 +109,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-04-03T00:00:00",
+                "fromdate": "2023-04-03",
                 "severity": 6095
             }
         },
@@ -123,7 +123,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-03-31T00:00:00",
+                "fromdate": "2023-03-31",
                 "severity": 6970
             }
         },
@@ -137,7 +137,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-04-05T00:00:00",
+                "fromdate": "2023-04-05",
                 "severity": 11637
             }
         },
@@ -151,7 +151,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-04-04T00:00:00",
+                "fromdate": "2023-04-04",
                 "severity": 8811
             }
         },
@@ -165,7 +165,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-04-03T00:00:00",
+                "fromdate": "2023-04-03",
                 "severity": 9711
             }
         },
@@ -179,7 +179,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-03-31T00:00:00",
+                "fromdate": "2023-03-31",
                 "severity": 9149
             }
         },
@@ -193,7 +193,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-03-25T00:00:00",
+                "fromdate": "2023-03-25",
                 "severity": 6034
             }
         },
@@ -207,7 +207,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-03-24T00:00:00",
+                "fromdate": "2023-03-24",
                 "severity": 6447
             }
         },
@@ -221,7 +221,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2023-03-28T00:00:00",
+                "fromdate": "2023-03-28",
                 "severity": 5048
             }
         },
@@ -235,7 +235,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 42912
             }
         },
@@ -249,7 +249,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 25301
             }
         },
@@ -263,7 +263,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 153484
             }
         },
@@ -277,7 +277,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 12991
             }
         },
@@ -291,7 +291,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 9901
             }
         },
@@ -305,7 +305,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 61624
             }
         },
@@ -319,7 +319,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 9280
             }
         },
@@ -333,7 +333,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 11982
             }
         },
@@ -347,7 +347,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 38463
             }
         },
@@ -361,7 +361,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 5393
             }
         },
@@ -375,7 +375,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 6873
             }
         },
@@ -389,7 +389,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 7274
             }
         },
@@ -403,7 +403,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 7309
             }
         },
@@ -417,7 +417,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 5325
             }
         },
@@ -431,7 +431,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 37353
             }
         },
@@ -445,7 +445,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 48830
             }
         },
@@ -459,7 +459,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 21093
             }
         },
@@ -473,7 +473,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 11218
             }
         },
@@ -487,7 +487,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 8421
             }
         },
@@ -501,7 +501,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 33106
             }
         },
@@ -515,7 +515,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 8207
             }
         },
@@ -529,7 +529,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 9747
             }
         },
@@ -543,7 +543,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 7846
             }
         },
@@ -557,7 +557,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 9449
             }
         },
@@ -571,7 +571,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 7095
             }
         },
@@ -585,7 +585,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 33400
             }
         },
@@ -599,7 +599,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 6319
             }
         },
@@ -613,7 +613,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-22T00:00:00",
+                "fromdate": "2022-03-22",
                 "severity": 5528
             }
         },
@@ -627,7 +627,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 5241
             }
         },
@@ -641,7 +641,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-21T00:00:00",
+                "fromdate": "2022-03-21",
                 "severity": 12431
             }
         },
@@ -655,7 +655,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-25T00:00:00",
+                "fromdate": "2022-03-25",
                 "severity": 15833
             }
         },
@@ -669,7 +669,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-23T00:00:00",
+                "fromdate": "2022-03-23",
                 "severity": 5381
             }
         },
@@ -683,7 +683,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-24T00:00:00",
+                "fromdate": "2022-03-24",
                 "severity": 32600
             }
         },
@@ -697,7 +697,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-24T00:00:00",
+                "fromdate": "2022-03-24",
                 "severity": 31213
             }
         },
@@ -711,7 +711,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-23T00:00:00",
+                "fromdate": "2022-03-23",
                 "severity": 13229
             }
         },
@@ -725,7 +725,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-24T00:00:00",
+                "fromdate": "2022-03-24",
                 "severity": 23908
             }
         },
@@ -739,7 +739,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-24T00:00:00",
+                "fromdate": "2022-03-24",
                 "severity": 23810
             }
         },
@@ -753,7 +753,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-24T00:00:00",
+                "fromdate": "2022-03-24",
                 "severity": 23150
             }
         },
@@ -767,7 +767,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-24T00:00:00",
+                "fromdate": "2022-03-24",
                 "severity": 22920
             }
         },
@@ -781,7 +781,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-24T00:00:00",
+                "fromdate": "2022-03-24",
                 "severity": 16800
             }
         },
@@ -795,7 +795,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-24T00:00:00",
+                "fromdate": "2022-03-24",
                 "severity": 8603
             }
         },
@@ -809,7 +809,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-25T00:00:00",
+                "fromdate": "2022-03-25",
                 "severity": 6902
             }
         },
@@ -823,7 +823,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-23T00:00:00",
+                "fromdate": "2022-03-23",
                 "severity": 5673
             }
         },
@@ -837,7 +837,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-23T00:00:00",
+                "fromdate": "2022-03-23",
                 "severity": 5640
             }
         },
@@ -851,7 +851,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-23T00:00:00",
+                "fromdate": "2022-03-23",
                 "severity": 35953
             }
         },
@@ -865,7 +865,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-24T00:00:00",
+                "fromdate": "2022-03-24",
                 "severity": 5417
             }
         },
@@ -879,7 +879,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-23T00:00:00",
+                "fromdate": "2022-03-23",
                 "severity": 40067
             }
         },
@@ -893,7 +893,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-25T00:00:00",
+                "fromdate": "2022-03-25",
                 "severity": 19237
             }
         },
@@ -907,7 +907,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-24T00:00:00",
+                "fromdate": "2022-03-24",
                 "severity": 5333
             }
         },
@@ -921,7 +921,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-23T00:00:00",
+                "fromdate": "2022-03-23",
                 "severity": 6748
             }
         },
@@ -935,7 +935,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-23T00:00:00",
+                "fromdate": "2022-03-23",
                 "severity": 6203
             }
         },
@@ -949,7 +949,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-26T00:00:00",
+                "fromdate": "2022-03-26",
                 "severity": 5646
             }
         },
@@ -963,7 +963,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-26T00:00:00",
+                "fromdate": "2022-03-26",
                 "severity": 6556
             }
         },
@@ -977,7 +977,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-26T00:00:00",
+                "fromdate": "2022-03-26",
                 "severity": 26141
             }
         },
@@ -991,7 +991,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-26T00:00:00",
+                "fromdate": "2022-03-26",
                 "severity": 6823
             }
         },
@@ -1005,7 +1005,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-26T00:00:00",
+                "fromdate": "2022-03-26",
                 "severity": 17711
             }
         },
@@ -1019,7 +1019,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-26T00:00:00",
+                "fromdate": "2022-03-26",
                 "severity": 14543
             }
         },
@@ -1033,7 +1033,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-26T00:00:00",
+                "fromdate": "2022-03-26",
                 "severity": 7281
             }
         },
@@ -1047,7 +1047,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-26T00:00:00",
+                "fromdate": "2022-03-26",
                 "severity": 5639
             }
         },
@@ -1061,7 +1061,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-26T00:00:00",
+                "fromdate": "2022-03-26",
                 "severity": 12916
             }
         },
@@ -1075,7 +1075,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-26T00:00:00",
+                "fromdate": "2022-03-26",
                 "severity": 6778
             }
         },
@@ -1089,7 +1089,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-26T00:00:00",
+                "fromdate": "2022-03-26",
                 "severity": 5771
             }
         },
@@ -1103,7 +1103,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-29T00:00:00",
+                "fromdate": "2022-03-29",
                 "severity": 6784
             }
         },
@@ -1117,7 +1117,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-27T00:00:00",
+                "fromdate": "2022-03-27",
                 "severity": 7477
             }
         },
@@ -1131,7 +1131,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-02T00:00:00",
+                "fromdate": "2022-04-02",
                 "severity": 5482
             }
         },
@@ -1145,7 +1145,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-15T00:00:00",
+                "fromdate": "2022-04-15",
                 "severity": 5776
             }
         },
@@ -1159,7 +1159,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-05T00:00:00",
+                "fromdate": "2022-04-05",
                 "severity": 7554
             }
         },
@@ -1173,7 +1173,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-02T00:00:00",
+                "fromdate": "2022-04-02",
                 "severity": 8172
             }
         },
@@ -1187,7 +1187,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-14T00:00:00",
+                "fromdate": "2022-04-14",
                 "severity": 5821
             }
         },
@@ -1201,7 +1201,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-08T00:00:00",
+                "fromdate": "2022-04-08",
                 "severity": 25647
             }
         },
@@ -1215,7 +1215,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-03T00:00:00",
+                "fromdate": "2022-04-03",
                 "severity": 5235
             }
         },
@@ -1229,7 +1229,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-02T00:00:00",
+                "fromdate": "2022-04-02",
                 "severity": 5736
             }
         },
@@ -1243,7 +1243,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-13T00:00:00",
+                "fromdate": "2022-04-13",
                 "severity": 14077
             }
         },
@@ -1257,7 +1257,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-09T00:00:00",
+                "fromdate": "2022-04-09",
                 "severity": 6307
             }
         },
@@ -1271,7 +1271,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-08T00:00:00",
+                "fromdate": "2022-04-08",
                 "severity": 17542
             }
         },
@@ -1285,7 +1285,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-30T00:00:00",
+                "fromdate": "2022-03-30",
                 "severity": 5765
             }
         },
@@ -1299,7 +1299,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-30T00:00:00",
+                "fromdate": "2022-03-30",
                 "severity": 5447
             }
         },
@@ -1313,7 +1313,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-08T00:00:00",
+                "fromdate": "2022-04-08",
                 "severity": 18478
             }
         },
@@ -1327,7 +1327,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-01T00:00:00",
+                "fromdate": "2022-04-01",
                 "severity": 7104
             }
         },
@@ -1341,7 +1341,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-09T00:00:00",
+                "fromdate": "2022-04-09",
                 "severity": 7011
             }
         },
@@ -1355,7 +1355,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-04T00:00:00",
+                "fromdate": "2022-04-04",
                 "severity": 12852
             }
         },
@@ -1369,7 +1369,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-04T00:00:00",
+                "fromdate": "2022-04-04",
                 "severity": 6131
             }
         },
@@ -1383,7 +1383,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-01T00:00:00",
+                "fromdate": "2022-04-01",
                 "severity": 29653
             }
         },
@@ -1397,7 +1397,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-30T00:00:00",
+                "fromdate": "2022-03-30",
                 "severity": 5102
             }
         },
@@ -1411,7 +1411,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-04T00:00:00",
+                "fromdate": "2022-04-04",
                 "severity": 20785
             }
         },
@@ -1425,7 +1425,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-04-03T00:00:00",
+                "fromdate": "2022-04-03",
                 "severity": 18158
             }
         },
@@ -1439,7 +1439,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-30T00:00:00",
+                "fromdate": "2022-03-30",
                 "severity": 5774
             }
         },
@@ -1453,7 +1453,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-02T00:00:00",
+                "fromdate": "2022-03-02",
                 "severity": 7748
             }
         },
@@ -1467,7 +1467,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-08T00:00:00",
+                "fromdate": "2022-03-08",
                 "severity": 5167
             }
         },
@@ -1481,7 +1481,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-08T00:00:00",
+                "fromdate": "2022-03-08",
                 "severity": 5967
             }
         },
@@ -1495,7 +1495,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-03T00:00:00",
+                "fromdate": "2022-03-03",
                 "severity": 11097
             }
         },
@@ -1509,7 +1509,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-02T00:00:00",
+                "fromdate": "2022-03-02",
                 "severity": 6086
             }
         },
@@ -1523,7 +1523,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-08T00:00:00",
+                "fromdate": "2022-03-08",
                 "severity": 19282
             }
         },
@@ -1537,7 +1537,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-08T00:00:00",
+                "fromdate": "2022-03-08",
                 "severity": 8531
             }
         },
@@ -1551,7 +1551,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-02-22T00:00:00",
+                "fromdate": "2022-02-22",
                 "severity": 25297
             }
         },
@@ -1565,7 +1565,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-02T00:00:00",
+                "fromdate": "2022-03-02",
                 "severity": 10573
             }
         },
@@ -1579,7 +1579,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-03-01T00:00:00",
+                "fromdate": "2022-03-01",
                 "severity": 5456
             }
         },
@@ -1593,7 +1593,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-02-26T00:00:00",
+                "fromdate": "2022-02-26",
                 "severity": 11488
             }
         },
@@ -1607,7 +1607,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-02-20T00:00:00",
+                "fromdate": "2022-02-20",
                 "severity": 12928
             }
         },
@@ -1621,7 +1621,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-02-23T00:00:00",
+                "fromdate": "2022-02-23",
                 "severity": 28570
             }
         },
@@ -1635,7 +1635,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-02-26T00:00:00",
+                "fromdate": "2022-02-26",
                 "severity": 12585
             }
         },
@@ -1649,7 +1649,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-02-17T00:00:00",
+                "fromdate": "2022-02-17",
                 "severity": 6926
             }
         },
@@ -1663,7 +1663,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-02-26T00:00:00",
+                "fromdate": "2022-02-26",
                 "severity": 7588
             }
         },
@@ -1677,7 +1677,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-02-26T00:00:00",
+                "fromdate": "2022-02-26",
                 "severity": 6485
             }
         },
@@ -1691,7 +1691,7 @@
                 ]
             },
             "properties": {
-                "fromdate": "2022-02-28T00:00:00",
+                "fromdate": "2022-02-28",
                 "severity": 5261
             }
         },
