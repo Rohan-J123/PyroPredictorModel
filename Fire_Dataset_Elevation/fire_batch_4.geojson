@@ -16,7 +16,7 @@
                 "severity": 219146.47822039216
             },
             "vegetation_indices": {
-                "NVDI": 2467,
+                "NDVI": 2467,
                 "EVI": 1195,
                 "LAI": 3,
                 "FPAR": 19
@@ -38,7 +38,7 @@
                 "severity": 155699.11008
             },
             "vegetation_indices": {
-                "NVDI": 4646,
+                "NDVI": 4646,
                 "EVI": 2866,
                 "LAI": 9,
                 "FPAR": 40
@@ -60,7 +60,7 @@
                 "severity": 380076.27808156837
             },
             "vegetation_indices": {
-                "NVDI": 2160,
+                "NDVI": 2160,
                 "EVI": 930,
                 "LAI": null,
                 "FPAR": null
@@ -82,7 +82,7 @@
                 "severity": 391033.82429019595
             },
             "vegetation_indices": {
-                "NVDI": 2217,
+                "NDVI": 2217,
                 "EVI": 955,
                 "LAI": 2,
                 "FPAR": 10
@@ -104,7 +104,7 @@
                 "severity": 201119.6030988236
             },
             "vegetation_indices": {
-                "NVDI": 1808,
+                "NDVI": 1808,
                 "EVI": 1161,
                 "LAI": 2,
                 "FPAR": 14
@@ -126,7 +126,7 @@
                 "severity": 311443.9252619608
             },
             "vegetation_indices": {
-                "NVDI": 3310,
+                "NDVI": 3310,
                 "EVI": 1800,
                 "LAI": 6,
                 "FPAR": 25
@@ -148,7 +148,7 @@
                 "severity": 329590.04994509806
             },
             "vegetation_indices": {
-                "NVDI": 2178,
+                "NDVI": 2178,
                 "EVI": 1488,
                 "LAI": 3,
                 "FPAR": 16
@@ -170,7 +170,7 @@
                 "severity": 399347.41334274533
             },
             "vegetation_indices": {
-                "NVDI": 3072,
+                "NDVI": 3072,
                 "EVI": 1709,
                 "LAI": 5,
                 "FPAR": 22
@@ -192,7 +192,7 @@
                 "severity": 93050.03731529412
             },
             "vegetation_indices": {
-                "NVDI": 2825,
+                "NDVI": 2825,
                 "EVI": 1576,
                 "LAI": 5,
                 "FPAR": 23
@@ -214,7 +214,7 @@
                 "severity": 304029.00748078444
             },
             "vegetation_indices": {
-                "NVDI": 3163,
+                "NDVI": 3163,
                 "EVI": 2151,
                 "LAI": 5,
                 "FPAR": 27
@@ -236,7 +236,7 @@
                 "severity": 155757.0684533333
             },
             "vegetation_indices": {
-                "NVDI": 2118,
+                "NDVI": 2118,
                 "EVI": 1178,
                 "LAI": 2,
                 "FPAR": 11
@@ -258,7 +258,7 @@
                 "severity": 403897.57679999986
             },
             "vegetation_indices": {
-                "NVDI": 2916,
+                "NDVI": 2916,
                 "EVI": 2083,
                 "LAI": 5,
                 "FPAR": 25
@@ -280,7 +280,7 @@
                 "severity": 124658.418
             },
             "vegetation_indices": {
-                "NVDI": 1335,
+                "NDVI": 1335,
                 "EVI": 1095,
                 "LAI": null,
                 "FPAR": null
@@ -302,7 +302,7 @@
                 "severity": 187421.095307451
             },
             "vegetation_indices": {
-                "NVDI": 2825,
+                "NDVI": 2825,
                 "EVI": 1576,
                 "LAI": 4,
                 "FPAR": 20
@@ -324,7 +324,7 @@
                 "severity": 174315.77354823536
             },
             "vegetation_indices": {
-                "NVDI": 2861,
+                "NDVI": 2861,
                 "EVI": 1808,
                 "LAI": 5,
                 "FPAR": 27
@@ -346,7 +346,7 @@
                 "severity": 127142.51019999998
             },
             "vegetation_indices": {
-                "NVDI": 1218,
+                "NDVI": 1218,
                 "EVI": 875,
                 "LAI": null,
                 "FPAR": null
@@ -368,7 +368,7 @@
                 "severity": 142182.9153317647
             },
             "vegetation_indices": {
-                "NVDI": 1758,
+                "NDVI": 1758,
                 "EVI": 1037,
                 "LAI": 2,
                 "FPAR": 13
@@ -390,7 +390,7 @@
                 "severity": 62342.8948
             },
             "vegetation_indices": {
-                "NVDI": 2411,
+                "NDVI": 2411,
                 "EVI": 1640,
                 "LAI": 4,
                 "FPAR": 17
@@ -412,7 +412,7 @@
                 "severity": 176888.64419764705
             },
             "vegetation_indices": {
-                "NVDI": 1616,
+                "NDVI": 1616,
                 "EVI": 881,
                 "LAI": 2,
                 "FPAR": 10
@@ -434,7 +434,7 @@
                 "severity": 104733.56879999996
             },
             "vegetation_indices": {
-                "NVDI": 2139,
+                "NDVI": 2139,
                 "EVI": 1094,
                 "LAI": 3,
                 "FPAR": 14
@@ -456,7 +456,7 @@
                 "severity": 201923.44079999992
             },
             "vegetation_indices": {
-                "NVDI": 2103,
+                "NDVI": 2103,
                 "EVI": 1210,
                 "LAI": 3,
                 "FPAR": 15
@@ -478,7 +478,7 @@
                 "severity": 233105.5901584315
             },
             "vegetation_indices": {
-                "NVDI": 2204,
+                "NDVI": 2204,
                 "EVI": 1102,
                 "LAI": 2,
                 "FPAR": 13
@@ -500,7 +500,7 @@
                 "severity": 196325.6107372549
             },
             "vegetation_indices": {
-                "NVDI": 1694,
+                "NDVI": 1694,
                 "EVI": 806,
                 "LAI": 2,
                 "FPAR": 12
@@ -522,7 +522,7 @@
                 "severity": 209417.70280000003
             },
             "vegetation_indices": {
-                "NVDI": 1908,
+                "NDVI": 1908,
                 "EVI": 1141,
                 "LAI": 2,
                 "FPAR": 11
@@ -544,7 +544,7 @@
                 "severity": 67378.45375137254
             },
             "vegetation_indices": {
-                "NVDI": 2542,
+                "NDVI": 2542,
                 "EVI": 1552,
                 "LAI": 3,
                 "FPAR": 13
@@ -566,7 +566,7 @@
                 "severity": 152588.85255294119
             },
             "vegetation_indices": {
-                "NVDI": 2017,
+                "NDVI": 2017,
                 "EVI": 1389,
                 "LAI": 3,
                 "FPAR": 17
@@ -588,7 +588,7 @@
                 "severity": 124382.63463215689
             },
             "vegetation_indices": {
-                "NVDI": 3571,
+                "NDVI": 3571,
                 "EVI": 2259,
                 "LAI": 5,
                 "FPAR": 28
@@ -610,7 +610,7 @@
                 "severity": 129670.6838
             },
             "vegetation_indices": {
-                "NVDI": 2184,
+                "NDVI": 2184,
                 "EVI": 1071,
                 "LAI": 2,
                 "FPAR": 13
@@ -632,7 +632,7 @@
                 "severity": 254192.67779529415
             },
             "vegetation_indices": {
-                "NVDI": 2248,
+                "NDVI": 2248,
                 "EVI": 1321,
                 "LAI": 2,
                 "FPAR": 13
@@ -654,7 +654,7 @@
                 "severity": 220776.16227921573
             },
             "vegetation_indices": {
-                "NVDI": 1866,
+                "NDVI": 1866,
                 "EVI": 1159,
                 "LAI": null,
                 "FPAR": null
@@ -676,7 +676,7 @@
                 "severity": 211390.9700454902
             },
             "vegetation_indices": {
-                "NVDI": 3487,
+                "NDVI": 3487,
                 "EVI": 2183,
                 "LAI": 4,
                 "FPAR": 23
@@ -698,7 +698,7 @@
                 "severity": 162145.81780000008
             },
             "vegetation_indices": {
-                "NVDI": 913,
+                "NDVI": 913,
                 "EVI": 660,
                 "LAI": null,
                 "FPAR": null
@@ -720,7 +720,7 @@
                 "severity": 257683.7546870589
             },
             "vegetation_indices": {
-                "NVDI": 1111,
+                "NDVI": 1111,
                 "EVI": 901,
                 "LAI": 2,
                 "FPAR": 10
@@ -742,7 +742,7 @@
                 "severity": 227826.020907451
             },
             "vegetation_indices": {
-                "NVDI": 2463,
+                "NDVI": 2463,
                 "EVI": 1559,
                 "LAI": 3,
                 "FPAR": 13
@@ -764,7 +764,7 @@
                 "severity": 273239.15282274515
             },
             "vegetation_indices": {
-                "NVDI": 1780,
+                "NDVI": 1780,
                 "EVI": 1066,
                 "LAI": 1,
                 "FPAR": 6
@@ -786,7 +786,7 @@
                 "severity": 271762.9942894118
             },
             "vegetation_indices": {
-                "NVDI": 2059,
+                "NDVI": 2059,
                 "EVI": 1222,
                 "LAI": 2,
                 "FPAR": 12
@@ -808,7 +808,7 @@
                 "severity": 357557.8799411763
             },
             "vegetation_indices": {
-                "NVDI": 2449,
+                "NDVI": 2449,
                 "EVI": 1348,
                 "LAI": 3,
                 "FPAR": 15
@@ -830,7 +830,7 @@
                 "severity": 266939.72620000015
             },
             "vegetation_indices": {
-                "NVDI": 2753,
+                "NDVI": 2753,
                 "EVI": 1544,
                 "LAI": 3,
                 "FPAR": 15
@@ -852,7 +852,7 @@
                 "severity": 230149.33410039218
             },
             "vegetation_indices": {
-                "NVDI": 2224,
+                "NDVI": 2224,
                 "EVI": 1323,
                 "LAI": 3,
                 "FPAR": 15
@@ -874,7 +874,7 @@
                 "severity": 198344.49497882364
             },
             "vegetation_indices": {
-                "NVDI": 1403,
+                "NDVI": 1403,
                 "EVI": 878,
                 "LAI": 2,
                 "FPAR": 9
@@ -896,7 +896,7 @@
                 "severity": 94384.22472627451
             },
             "vegetation_indices": {
-                "NVDI": 2462,
+                "NDVI": 2462,
                 "EVI": 1419,
                 "LAI": 2,
                 "FPAR": 12
@@ -918,7 +918,7 @@
                 "severity": 104788.82700000005
             },
             "vegetation_indices": {
-                "NVDI": 1512,
+                "NDVI": 1512,
                 "EVI": 941,
                 "LAI": 2,
                 "FPAR": 10
@@ -940,7 +940,7 @@
                 "severity": 140965.2743294117
             },
             "vegetation_indices": {
-                "NVDI": 1585,
+                "NDVI": 1585,
                 "EVI": 1095,
                 "LAI": 2,
                 "FPAR": 12
@@ -962,7 +962,7 @@
                 "severity": 389909.92560627457
             },
             "vegetation_indices": {
-                "NVDI": 1803,
+                "NDVI": 1803,
                 "EVI": 1193,
                 "LAI": 3,
                 "FPAR": 13
@@ -984,7 +984,7 @@
                 "severity": 381829.1248
             },
             "vegetation_indices": {
-                "NVDI": 1446,
+                "NDVI": 1446,
                 "EVI": 1165,
                 "LAI": 2,
                 "FPAR": 13
@@ -1006,7 +1006,7 @@
                 "severity": 432851.44554666645
             },
             "vegetation_indices": {
-                "NVDI": 2602,
+                "NDVI": 2602,
                 "EVI": 1757,
                 "LAI": 3,
                 "FPAR": 20
@@ -1028,7 +1028,7 @@
                 "severity": 508054.21951294085
             },
             "vegetation_indices": {
-                "NVDI": 2428,
+                "NDVI": 2428,
                 "EVI": 1765,
                 "LAI": 3,
                 "FPAR": 15
@@ -1050,7 +1050,7 @@
                 "severity": 465036.4503231374
             },
             "vegetation_indices": {
-                "NVDI": 2573,
+                "NDVI": 2573,
                 "EVI": 1514,
                 "LAI": 3,
                 "FPAR": 15
@@ -1072,7 +1072,7 @@
                 "severity": 384223.3497686275
             },
             "vegetation_indices": {
-                "NVDI": 2489,
+                "NDVI": 2489,
                 "EVI": 1526,
                 "LAI": 3,
                 "FPAR": 15
@@ -1094,7 +1094,7 @@
                 "severity": 123664.14997725491
             },
             "vegetation_indices": {
-                "NVDI": 2559,
+                "NDVI": 2559,
                 "EVI": 1501,
                 "LAI": 3,
                 "FPAR": 18
@@ -1116,7 +1116,7 @@
                 "severity": 400500.2712000001
             },
             "vegetation_indices": {
-                "NVDI": 1423,
+                "NDVI": 1423,
                 "EVI": 890,
                 "LAI": 2,
                 "FPAR": 10
@@ -1138,7 +1138,7 @@
                 "severity": 248570.748250196
             },
             "vegetation_indices": {
-                "NVDI": 2191,
+                "NDVI": 2191,
                 "EVI": 1254,
                 "LAI": 3,
                 "FPAR": 14
@@ -1160,7 +1160,7 @@
                 "severity": 161714.31336235293
             },
             "vegetation_indices": {
-                "NVDI": 2014,
+                "NDVI": 2014,
                 "EVI": 1166,
                 "LAI": 2,
                 "FPAR": 12
@@ -1182,7 +1182,7 @@
                 "severity": 67347.2972
             },
             "vegetation_indices": {
-                "NVDI": 1488,
+                "NDVI": 1488,
                 "EVI": 1256,
                 "LAI": 2,
                 "FPAR": 13
@@ -1204,7 +1204,7 @@
                 "severity": 132105.46545254902
             },
             "vegetation_indices": {
-                "NVDI": 2138,
+                "NDVI": 2138,
                 "EVI": 1286,
                 "LAI": 3,
                 "FPAR": 15
@@ -1226,7 +1226,7 @@
                 "severity": 122202.54879999999
             },
             "vegetation_indices": {
-                "NVDI": 2018,
+                "NDVI": 2018,
                 "EVI": 1258,
                 "LAI": 2,
                 "FPAR": 11
@@ -1248,7 +1248,7 @@
                 "severity": 107299.69720000002
             },
             "vegetation_indices": {
-                "NVDI": 2092,
+                "NDVI": 2092,
                 "EVI": 1198,
                 "LAI": 2,
                 "FPAR": 12
@@ -1270,7 +1270,7 @@
                 "severity": 253141.12864235303
             },
             "vegetation_indices": {
-                "NVDI": 1423,
+                "NDVI": 1423,
                 "EVI": 890,
                 "LAI": 2,
                 "FPAR": 11
@@ -1292,7 +1292,7 @@
                 "severity": 192853.48573960777
             },
             "vegetation_indices": {
-                "NVDI": 2397,
+                "NDVI": 2397,
                 "EVI": 1511,
                 "LAI": 3,
                 "FPAR": 16
@@ -1314,7 +1314,7 @@
                 "severity": 184859.98271843142
             },
             "vegetation_indices": {
-                "NVDI": 1931,
+                "NDVI": 1931,
                 "EVI": 1210,
                 "LAI": 2,
                 "FPAR": 12
@@ -1336,7 +1336,7 @@
                 "severity": 149064.9597529412
             },
             "vegetation_indices": {
-                "NVDI": 4056,
+                "NDVI": 4056,
                 "EVI": 2437,
                 "LAI": 5,
                 "FPAR": 27
@@ -1358,7 +1358,7 @@
                 "severity": 68184.53938980393
             },
             "vegetation_indices": {
-                "NVDI": 1882,
+                "NDVI": 1882,
                 "EVI": 1113,
                 "LAI": 2,
                 "FPAR": 13
@@ -1380,7 +1380,7 @@
                 "severity": 57364.4674
             },
             "vegetation_indices": {
-                "NVDI": 2252,
+                "NDVI": 2252,
                 "EVI": 1219,
                 "LAI": 2,
                 "FPAR": 12
@@ -1402,7 +1402,7 @@
                 "severity": 106238.65372235297
             },
             "vegetation_indices": {
-                "NVDI": 2744,
+                "NDVI": 2744,
                 "EVI": 1561,
                 "LAI": 3,
                 "FPAR": 17
@@ -1424,7 +1424,7 @@
                 "severity": 142180.25030666662
             },
             "vegetation_indices": {
-                "NVDI": 2776,
+                "NDVI": 2776,
                 "EVI": 1631,
                 "LAI": 3,
                 "FPAR": 18
@@ -1446,7 +1446,7 @@
                 "severity": 101631.88391215685
             },
             "vegetation_indices": {
-                "NVDI": 1550,
+                "NDVI": 1550,
                 "EVI": 869,
                 "LAI": 2,
                 "FPAR": 11
@@ -1468,7 +1468,7 @@
                 "severity": 134704.37260000003
             },
             "vegetation_indices": {
-                "NVDI": 1388,
+                "NDVI": 1388,
                 "EVI": 1107,
                 "LAI": 2,
                 "FPAR": 13
@@ -1490,7 +1490,7 @@
                 "severity": 79597.49197647058
             },
             "vegetation_indices": {
-                "NVDI": 2399,
+                "NDVI": 2399,
                 "EVI": 1408,
                 "LAI": 2,
                 "FPAR": 13
@@ -1512,7 +1512,7 @@
                 "severity": 143329.80073176473
             },
             "vegetation_indices": {
-                "NVDI": 2399,
+                "NDVI": 2399,
                 "EVI": 1408,
                 "LAI": 2,
                 "FPAR": 13
@@ -1534,7 +1534,7 @@
                 "severity": 73293.01174745099
             },
             "vegetation_indices": {
-                "NVDI": 3661,
+                "NDVI": 3661,
                 "EVI": 2377,
                 "LAI": 6,
                 "FPAR": 27
@@ -1556,7 +1556,7 @@
                 "severity": 43815.67342352941
             },
             "vegetation_indices": {
-                "NVDI": 1719,
+                "NDVI": 1719,
                 "EVI": 990,
                 "LAI": 2,
                 "FPAR": 11
@@ -1578,7 +1578,7 @@
                 "severity": 57353.53999999999
             },
             "vegetation_indices": {
-                "NVDI": 6725,
+                "NDVI": 6725,
                 "EVI": 4554,
                 "LAI": 24,
                 "FPAR": 67
@@ -1600,7 +1600,7 @@
                 "severity": 9983.254200000001
             },
             "vegetation_indices": {
-                "NVDI": 1835,
+                "NDVI": 1835,
                 "EVI": 1115,
                 "LAI": 1,
                 "FPAR": 6
@@ -1622,7 +1622,7 @@
                 "severity": 74056.73485882352
             },
             "vegetation_indices": {
-                "NVDI": 1539,
+                "NDVI": 1539,
                 "EVI": 942,
                 "LAI": 2,
                 "FPAR": 9
@@ -1644,7 +1644,7 @@
                 "severity": 22444.831400000003
             },
             "vegetation_indices": {
-                "NVDI": 1756,
+                "NDVI": 1756,
                 "EVI": 996,
                 "LAI": 1,
                 "FPAR": 7
@@ -1666,7 +1666,7 @@
                 "severity": 12470.659
             },
             "vegetation_indices": {
-                "NVDI": 2883,
+                "NDVI": 2883,
                 "EVI": 2245,
                 "LAI": 5,
                 "FPAR": 22
@@ -1688,7 +1688,7 @@
                 "severity": 17469.727600000002
             },
             "vegetation_indices": {
-                "NVDI": 2581,
+                "NDVI": 2581,
                 "EVI": 1718,
                 "LAI": 4,
                 "FPAR": 19
@@ -1710,7 +1710,7 @@
                 "severity": 23414.201103529413
             },
             "vegetation_indices": {
-                "NVDI": 1728,
+                "NDVI": 1728,
                 "EVI": 960,
                 "LAI": 2,
                 "FPAR": 13
@@ -1732,7 +1732,7 @@
                 "severity": 48975.91539529412
             },
             "vegetation_indices": {
-                "NVDI": 3164,
+                "NDVI": 3164,
                 "EVI": 2128,
                 "LAI": 6,
                 "FPAR": 30
@@ -1754,7 +1754,7 @@
                 "severity": 22464.1846
             },
             "vegetation_indices": {
-                "NVDI": 4847,
+                "NDVI": 4847,
                 "EVI": 2857,
                 "LAI": 11,
                 "FPAR": 42
@@ -1776,7 +1776,7 @@
                 "severity": 42402.55807215686
             },
             "vegetation_indices": {
-                "NVDI": 3876,
+                "NDVI": 3876,
                 "EVI": 2131,
                 "LAI": 5,
                 "FPAR": 28
@@ -1798,7 +1798,7 @@
                 "severity": 7479.402600000001
             },
             "vegetation_indices": {
-                "NVDI": 2088,
+                "NDVI": 2088,
                 "EVI": 1261,
                 "LAI": 4,
                 "FPAR": 19
@@ -1820,7 +1820,7 @@
                 "severity": 9981.2958
             },
             "vegetation_indices": {
-                "NVDI": 6257,
+                "NDVI": 6257,
                 "EVI": 2415,
                 "LAI": 12,
                 "FPAR": 52
@@ -1842,7 +1842,7 @@
                 "severity": 14650.10464470588
             },
             "vegetation_indices": {
-                "NVDI": 4960,
+                "NDVI": 4960,
                 "EVI": 3154,
                 "LAI": 7,
                 "FPAR": 34
@@ -1864,7 +1864,7 @@
                 "severity": 14979.407
             },
             "vegetation_indices": {
-                "NVDI": 7282,
+                "NDVI": 7282,
                 "EVI": 4567,
                 "LAI": 21,
                 "FPAR": 55
@@ -1886,7 +1886,7 @@
                 "severity": 9969.145
             },
             "vegetation_indices": {
-                "NVDI": 2987,
+                "NDVI": 2987,
                 "EVI": 1743,
                 "LAI": 5,
                 "FPAR": 21
@@ -1908,7 +1908,7 @@
                 "severity": 9987.461800000001
             },
             "vegetation_indices": {
-                "NVDI": 6238,
+                "NDVI": 6238,
                 "EVI": 2848,
                 "LAI": 18,
                 "FPAR": 59
@@ -1930,7 +1930,7 @@
                 "severity": 7484.305200000001
             },
             "vegetation_indices": {
-                "NVDI": 2398,
+                "NDVI": 2398,
                 "EVI": 1687,
                 "LAI": 3,
                 "FPAR": 15
@@ -1952,7 +1952,7 @@
                 "severity": 12464.218
             },
             "vegetation_indices": {
-                "NVDI": 6654,
+                "NDVI": 6654,
                 "EVI": 3427,
                 "LAI": 14,
                 "FPAR": 55
@@ -1974,7 +1974,7 @@
                 "severity": 3657.703653333333
             },
             "vegetation_indices": {
-                "NVDI": 460,
+                "NDVI": 460,
                 "EVI": 227,
                 "LAI": null,
                 "FPAR": null
@@ -1996,7 +1996,7 @@
                 "severity": 5612.341372549019
             },
             "vegetation_indices": {
-                "NVDI": 3143,
+                "NDVI": 3143,
                 "EVI": 2058,
                 "LAI": 3,
                 "FPAR": 15
@@ -2018,7 +2018,7 @@
                 "severity": 2494.1588
             },
             "vegetation_indices": {
-                "NVDI": 1102,
+                "NDVI": 1102,
                 "EVI": 696,
                 "LAI": 1,
                 "FPAR": 7
@@ -2040,7 +2040,7 @@
                 "severity": 7480.264
             },
             "vegetation_indices": {
-                "NVDI": 3715,
+                "NDVI": 3715,
                 "EVI": 2136,
                 "LAI": 5,
                 "FPAR": 24
@@ -2062,7 +2062,7 @@
                 "severity": 7473.295
             },
             "vegetation_indices": {
-                "NVDI": 2070,
+                "NDVI": 2070,
                 "EVI": 1178,
                 "LAI": 2,
                 "FPAR": 13
@@ -2084,7 +2084,7 @@
                 "severity": 7482.6918000000005
             },
             "vegetation_indices": {
-                "NVDI": 3861,
+                "NDVI": 3861,
                 "EVI": 2348,
                 "LAI": 6,
                 "FPAR": 28
@@ -2106,7 +2106,7 @@
                 "severity": 9981.1122
             },
             "vegetation_indices": {
-                "NVDI": 5220,
+                "NDVI": 5220,
                 "EVI": 3117,
                 "LAI": 4,
                 "FPAR": 21
@@ -2128,7 +2128,7 @@
                 "severity": 2494.728
             },
             "vegetation_indices": {
-                "NVDI": 3706,
+                "NDVI": 3706,
                 "EVI": 2454,
                 "LAI": 3,
                 "FPAR": 21
@@ -2150,7 +2150,7 @@
                 "severity": 8159.902449411764
             },
             "vegetation_indices": {
-                "NVDI": null,
+                "NDVI": null,
                 "EVI": null,
                 "LAI": null,
                 "FPAR": null
@@ -2172,7 +2172,7 @@
                 "severity": 7492.468400000001
             },
             "vegetation_indices": {
-                "NVDI": 4181,
+                "NDVI": 4181,
                 "EVI": 2712,
                 "LAI": 3,
                 "FPAR": 17
@@ -2194,7 +2194,7 @@
                 "severity": 4993.8204
             },
             "vegetation_indices": {
-                "NVDI": 4962,
+                "NDVI": 4962,
                 "EVI": 3169,
                 "LAI": 9,
                 "FPAR": 35
@@ -2216,7 +2216,7 @@
                 "severity": 2497.6556
             },
             "vegetation_indices": {
-                "NVDI": 6466,
+                "NDVI": 6466,
                 "EVI": 4180,
                 "LAI": 3,
                 "FPAR": 16
@@ -2238,7 +2238,7 @@
                 "severity": 2494.2358
             },
             "vegetation_indices": {
-                "NVDI": 6788,
+                "NDVI": 6788,
                 "EVI": 4101,
                 "LAI": 10,
                 "FPAR": 40
@@ -2260,7 +2260,7 @@
                 "severity": 2490.1022
             },
             "vegetation_indices": {
-                "NVDI": 6269,
+                "NDVI": 6269,
                 "EVI": 3889,
                 "LAI": 18,
                 "FPAR": 55
@@ -2282,7 +2282,7 @@
                 "severity": 3165.5824494117646
             },
             "vegetation_indices": {
-                "NVDI": null,
+                "NDVI": null,
                 "EVI": null,
                 "LAI": null,
                 "FPAR": null
@@ -2304,7 +2304,7 @@
                 "severity": 4988.433
             },
             "vegetation_indices": {
-                "NVDI": 1824,
+                "NDVI": 1824,
                 "EVI": 1163,
                 "LAI": 5,
                 "FPAR": 22
@@ -2326,7 +2326,7 @@
                 "severity": 2493.4308
             },
             "vegetation_indices": {
-                "NVDI": 2330,
+                "NDVI": 2330,
                 "EVI": 1733,
                 "LAI": 2,
                 "FPAR": 9
@@ -2348,7 +2348,7 @@
                 "severity": 14962.765800000001
             },
             "vegetation_indices": {
-                "NVDI": 576,
+                "NDVI": 576,
                 "EVI": 472,
                 "LAI": 1,
                 "FPAR": 6
@@ -2370,7 +2370,7 @@
                 "severity": 4987.8718
             },
             "vegetation_indices": {
-                "NVDI": 2448,
+                "NDVI": 2448,
                 "EVI": 1783,
                 "LAI": 3,
                 "FPAR": 14
@@ -2392,7 +2392,7 @@
                 "severity": 2496.767
             },
             "vegetation_indices": {
-                "NVDI": 7087,
+                "NDVI": 7087,
                 "EVI": 5139,
                 "LAI": 11,
                 "FPAR": 47
@@ -2414,7 +2414,7 @@
                 "severity": 2490.0526
             },
             "vegetation_indices": {
-                "NVDI": 1774,
+                "NDVI": 1774,
                 "EVI": 869,
                 "LAI": 2,
                 "FPAR": 9
@@ -2436,7 +2436,7 @@
                 "severity": 4980.027
             },
             "vegetation_indices": {
-                "NVDI": 3250,
+                "NDVI": 3250,
                 "EVI": 1856,
                 "LAI": 3,
                 "FPAR": 18
@@ -2458,7 +2458,7 @@
                 "severity": 2496.2364
             },
             "vegetation_indices": {
-                "NVDI": 2119,
+                "NDVI": 2119,
                 "EVI": 1420,
                 "LAI": null,
                 "FPAR": null
@@ -2480,7 +2480,7 @@
                 "severity": 2495.3616
             },
             "vegetation_indices": {
-                "NVDI": 2000,
+                "NDVI": 2000,
                 "EVI": 1511,
                 "LAI": null,
                 "FPAR": null
@@ -2502,7 +2502,7 @@
                 "severity": 7126.075360784314
             },
             "vegetation_indices": {
-                "NVDI": 5435,
+                "NDVI": 5435,
                 "EVI": 4233,
                 "LAI": 11,
                 "FPAR": 47
@@ -2524,7 +2524,7 @@
                 "severity": 2489.7828
             },
             "vegetation_indices": {
-                "NVDI": 2673,
+                "NDVI": 2673,
                 "EVI": 1839,
                 "LAI": 2,
                 "FPAR": 11
@@ -2546,7 +2546,7 @@
                 "severity": 2497.0596
             },
             "vegetation_indices": {
-                "NVDI": 4198,
+                "NDVI": 4198,
                 "EVI": 3198,
                 "LAI": 12,
                 "FPAR": 51
@@ -2568,7 +2568,7 @@
                 "severity": 4983.1158
             },
             "vegetation_indices": {
-                "NVDI": 1994,
+                "NDVI": 1994,
                 "EVI": 1141,
                 "LAI": 1,
                 "FPAR": 6
@@ -2590,7 +2590,7 @@
                 "severity": 2492.1458
             },
             "vegetation_indices": {
-                "NVDI": 4989,
+                "NDVI": 4989,
                 "EVI": 3159,
                 "LAI": 7,
                 "FPAR": 35
@@ -2612,7 +2612,7 @@
                 "severity": 4990.0392
             },
             "vegetation_indices": {
-                "NVDI": 3277,
+                "NDVI": 3277,
                 "EVI": 1902,
                 "LAI": 3,
                 "FPAR": 23
@@ -2634,7 +2634,7 @@
                 "severity": 4981.999
             },
             "vegetation_indices": {
-                "NVDI": 3148,
+                "NDVI": 3148,
                 "EVI": 1999,
                 "LAI": 1,
                 "FPAR": 7
@@ -2656,7 +2656,7 @@
                 "severity": 2493.0926
             },
             "vegetation_indices": {
-                "NVDI": 5123,
+                "NDVI": 5123,
                 "EVI": 2340,
                 "LAI": 8,
                 "FPAR": 41
@@ -2678,7 +2678,7 @@
                 "severity": 4983.5696
             },
             "vegetation_indices": {
-                "NVDI": 2851,
+                "NDVI": 2851,
                 "EVI": 2091,
                 "LAI": 2,
                 "FPAR": 16
@@ -2700,7 +2700,7 @@
                 "severity": 17466.7676
             },
             "vegetation_indices": {
-                "NVDI": 3468,
+                "NDVI": 3468,
                 "EVI": 2575,
                 "LAI": 5,
                 "FPAR": 28
@@ -2722,7 +2722,7 @@
                 "severity": 4986.2732
             },
             "vegetation_indices": {
-                "NVDI": 6686,
+                "NDVI": 6686,
                 "EVI": 3571,
                 "LAI": 20,
                 "FPAR": 61
@@ -2744,7 +2744,7 @@
                 "severity": 3836.2285898039217
             },
             "vegetation_indices": {
-                "NVDI": 1651,
+                "NDVI": 1651,
                 "EVI": 1178,
                 "LAI": 2,
                 "FPAR": 16
@@ -2766,7 +2766,7 @@
                 "severity": 4990.6556
             },
             "vegetation_indices": {
-                "NVDI": 3589,
+                "NDVI": 3589,
                 "EVI": 2542,
                 "LAI": 5,
                 "FPAR": 26
@@ -2788,7 +2788,7 @@
                 "severity": 12467.70665490196
             },
             "vegetation_indices": {
-                "NVDI": 5036,
+                "NDVI": 5036,
                 "EVI": 3545,
                 "LAI": 3,
                 "FPAR": 27
@@ -2810,7 +2810,7 @@
                 "severity": 17477.4028
             },
             "vegetation_indices": {
-                "NVDI": 3441,
+                "NDVI": 3441,
                 "EVI": 2137,
                 "LAI": 3,
                 "FPAR": 22
@@ -2832,7 +2832,7 @@
                 "severity": 7491.2698
             },
             "vegetation_indices": {
-                "NVDI": 7028,
+                "NDVI": 7028,
                 "EVI": 3754,
                 "LAI": 11,
                 "FPAR": 49
@@ -2854,7 +2854,7 @@
                 "severity": 22477.3136
             },
             "vegetation_indices": {
-                "NVDI": 3027,
+                "NDVI": 3027,
                 "EVI": 1867,
                 "LAI": 4,
                 "FPAR": 22
@@ -2876,7 +2876,7 @@
                 "severity": 2497.9352
             },
             "vegetation_indices": {
-                "NVDI": 4182,
+                "NDVI": 4182,
                 "EVI": 2514,
                 "LAI": 5,
                 "FPAR": 31
@@ -2898,7 +2898,7 @@
                 "severity": 2497.333
             },
             "vegetation_indices": {
-                "NVDI": 2826,
+                "NDVI": 2826,
                 "EVI": 1533,
                 "LAI": 3,
                 "FPAR": 20
@@ -2920,7 +2920,7 @@
                 "severity": 38853.87486117647
             },
             "vegetation_indices": {
-                "NVDI": 2727,
+                "NDVI": 2727,
                 "EVI": 1486,
                 "LAI": 3,
                 "FPAR": 22
@@ -2942,7 +2942,7 @@
                 "severity": 2496.633
             },
             "vegetation_indices": {
-                "NVDI": 2535,
+                "NDVI": 2535,
                 "EVI": 1445,
                 "LAI": 2,
                 "FPAR": 11
@@ -2964,7 +2964,7 @@
                 "severity": 101811.21990274511
             },
             "vegetation_indices": {
-                "NVDI": 2152,
+                "NDVI": 2152,
                 "EVI": 1140,
                 "LAI": 1,
                 "FPAR": 10
@@ -2986,7 +2986,7 @@
                 "severity": 4994.1988
             },
             "vegetation_indices": {
-                "NVDI": 2843,
+                "NDVI": 2843,
                 "EVI": 1697,
                 "LAI": 2,
                 "FPAR": 14
@@ -3008,7 +3008,7 @@
                 "severity": 129114.1763647059
             },
             "vegetation_indices": {
-                "NVDI": 2575,
+                "NDVI": 2575,
                 "EVI": 1388,
                 "LAI": 2,
                 "FPAR": 18
@@ -3030,7 +3030,7 @@
                 "severity": 13007.15904156863
             },
             "vegetation_indices": {
-                "NVDI": 3238,
+                "NDVI": 3238,
                 "EVI": 1641,
                 "LAI": 5,
                 "FPAR": 33
@@ -3052,7 +3052,7 @@
                 "severity": 52434.09590745098
             },
             "vegetation_indices": {
-                "NVDI": 2203,
+                "NDVI": 2203,
                 "EVI": 1209,
                 "LAI": 1,
                 "FPAR": 9
@@ -3074,7 +3074,7 @@
                 "severity": 114871.8102
             },
             "vegetation_indices": {
-                "NVDI": 4371,
+                "NDVI": 4371,
                 "EVI": 2873,
                 "LAI": 6,
                 "FPAR": 44
@@ -3096,7 +3096,7 @@
                 "severity": 7477.095600000001
             },
             "vegetation_indices": {
-                "NVDI": 6192,
+                "NDVI": 6192,
                 "EVI": 3396,
                 "LAI": 10,
                 "FPAR": 45
@@ -3118,7 +3118,7 @@
                 "severity": 375623.51620941167
             },
             "vegetation_indices": {
-                "NVDI": 3408,
+                "NDVI": 3408,
                 "EVI": 1945,
                 "LAI": 1,
                 "FPAR": 10
@@ -3140,7 +3140,7 @@
                 "severity": 17481.4266
             },
             "vegetation_indices": {
-                "NVDI": 2162,
+                "NDVI": 2162,
                 "EVI": 947,
                 "LAI": 1,
                 "FPAR": 9
@@ -3162,7 +3162,7 @@
                 "severity": 207280.891
             },
             "vegetation_indices": {
-                "NVDI": 2162,
+                "NDVI": 2162,
                 "EVI": 947,
                 "LAI": 1,
                 "FPAR": 9
@@ -3184,7 +3184,7 @@
                 "severity": 12474.186399999999
             },
             "vegetation_indices": {
-                "NVDI": 2333,
+                "NDVI": 2333,
                 "EVI": 1413,
                 "LAI": 1,
                 "FPAR": 9
@@ -3206,7 +3206,7 @@
                 "severity": 4994.8496
             },
             "vegetation_indices": {
-                "NVDI": 2523,
+                "NDVI": 2523,
                 "EVI": 1182,
                 "LAI": 2,
                 "FPAR": 17
@@ -3228,7 +3228,7 @@
                 "severity": 99893.05519999997
             },
             "vegetation_indices": {
-                "NVDI": 2836,
+                "NDVI": 2836,
                 "EVI": 1607,
                 "LAI": 2,
                 "FPAR": 15
@@ -3250,7 +3250,7 @@
                 "severity": 27452.098400000003
             },
             "vegetation_indices": {
-                "NVDI": 3061,
+                "NDVI": 3061,
                 "EVI": 1603,
                 "LAI": 2,
                 "FPAR": 18
@@ -3272,7 +3272,7 @@
                 "severity": 12472.269
             },
             "vegetation_indices": {
-                "NVDI": 2782,
+                "NDVI": 2782,
                 "EVI": 1524,
                 "LAI": 3,
                 "FPAR": 30
@@ -3294,7 +3294,7 @@
                 "severity": 9976.6782
             },
             "vegetation_indices": {
-                "NVDI": 2325,
+                "NDVI": 2325,
                 "EVI": 902,
                 "LAI": 2,
                 "FPAR": 13
@@ -3316,7 +3316,7 @@
                 "severity": 2497.037
             },
             "vegetation_indices": {
-                "NVDI": 2773,
+                "NDVI": 2773,
                 "EVI": 1483,
                 "LAI": 3,
                 "FPAR": 27
@@ -3338,7 +3338,7 @@
                 "severity": 4985.0978
             },
             "vegetation_indices": {
-                "NVDI": 2426,
+                "NDVI": 2426,
                 "EVI": 1012,
                 "LAI": 3,
                 "FPAR": 26
@@ -3360,7 +3360,7 @@
                 "severity": 4990.4256000000005
             },
             "vegetation_indices": {
-                "NVDI": 3583,
+                "NDVI": 3583,
                 "EVI": 1821,
                 "LAI": 3,
                 "FPAR": 30
@@ -3382,7 +3382,7 @@
                 "severity": 29963.8416
             },
             "vegetation_indices": {
-                "NVDI": 2494,
+                "NDVI": 2494,
                 "EVI": 1090,
                 "LAI": 1,
                 "FPAR": 8
@@ -3404,7 +3404,7 @@
                 "severity": 54929.902400000006
             },
             "vegetation_indices": {
-                "NVDI": 2061,
+                "NDVI": 2061,
                 "EVI": 838,
                 "LAI": 2,
                 "FPAR": 12
@@ -3426,7 +3426,7 @@
                 "severity": 2495.2576
             },
             "vegetation_indices": {
-                "NVDI": 5427,
+                "NDVI": 5427,
                 "EVI": 3793,
                 "LAI": 6,
                 "FPAR": 46
@@ -3448,7 +3448,7 @@
                 "severity": 2493.8174
             },
             "vegetation_indices": {
-                "NVDI": 1618,
+                "NDVI": 1618,
                 "EVI": 916,
                 "LAI": 2,
                 "FPAR": 13
@@ -3470,7 +3470,7 @@
                 "severity": 12485.528999999999
             },
             "vegetation_indices": {
-                "NVDI": 2303,
+                "NDVI": 2303,
                 "EVI": 1137,
                 "LAI": 2,
                 "FPAR": 17
@@ -3492,7 +3492,7 @@
                 "severity": 4989.7258
             },
             "vegetation_indices": {
-                "NVDI": 3021,
+                "NDVI": 3021,
                 "EVI": 1494,
                 "LAI": 3,
                 "FPAR": 27
@@ -3514,7 +3514,7 @@
                 "severity": 17481.0362
             },
             "vegetation_indices": {
-                "NVDI": 2858,
+                "NDVI": 2858,
                 "EVI": 1413,
                 "LAI": 2,
                 "FPAR": 14
@@ -3536,7 +3536,7 @@
                 "severity": 2497.2188
             },
             "vegetation_indices": {
-                "NVDI": 2218,
+                "NDVI": 2218,
                 "EVI": 1081,
                 "LAI": 1,
                 "FPAR": 11
@@ -3558,7 +3558,7 @@
                 "severity": 3655.1140533333337
             },
             "vegetation_indices": {
-                "NVDI": 1389,
+                "NDVI": 1389,
                 "EVI": 511,
                 "LAI": null,
                 "FPAR": null
@@ -3580,7 +3580,7 @@
                 "severity": 7484.990400000001
             },
             "vegetation_indices": {
-                "NVDI": 1778,
+                "NDVI": 1778,
                 "EVI": 636,
                 "LAI": 4,
                 "FPAR": 18
@@ -3602,7 +3602,7 @@
                 "severity": 2495.6768
             },
             "vegetation_indices": {
-                "NVDI": 2924,
+                "NDVI": 2924,
                 "EVI": 2019,
                 "LAI": 5,
                 "FPAR": 29
@@ -3624,7 +3624,7 @@
                 "severity": 2491.6026
             },
             "vegetation_indices": {
-                "NVDI": 2894,
+                "NDVI": 2894,
                 "EVI": 1425,
                 "LAI": 1,
                 "FPAR": 7
@@ -3646,7 +3646,7 @@
                 "severity": 1163.4678533333333
             },
             "vegetation_indices": {
-                "NVDI": -344,
+                "NDVI": -344,
                 "EVI": -126,
                 "LAI": null,
                 "FPAR": null
@@ -3668,7 +3668,7 @@
                 "severity": 7477.0473999999995
             },
             "vegetation_indices": {
-                "NVDI": 4146,
+                "NDVI": 4146,
                 "EVI": 2278,
                 "LAI": 7,
                 "FPAR": 38
@@ -3690,7 +3690,7 @@
                 "severity": 2491.502
             },
             "vegetation_indices": {
-                "NVDI": 4487,
+                "NDVI": 4487,
                 "EVI": 2313,
                 "LAI": 5,
                 "FPAR": 31
@@ -3712,7 +3712,7 @@
                 "severity": 2495.466
             },
             "vegetation_indices": {
-                "NVDI": 8330,
+                "NDVI": 8330,
                 "EVI": 5052,
                 "LAI": 26,
                 "FPAR": 86
@@ -3734,7 +3734,7 @@
                 "severity": 4847.728849411765
             },
             "vegetation_indices": {
-                "NVDI": 6103,
+                "NDVI": 6103,
                 "EVI": 3669,
                 "LAI": 9,
                 "FPAR": 51
@@ -3756,7 +3756,7 @@
                 "severity": 2492.1614
             },
             "vegetation_indices": {
-                "NVDI": 4268,
+                "NDVI": 4268,
                 "EVI": 2151,
                 "LAI": 6,
                 "FPAR": 32
@@ -3778,7 +3778,7 @@
                 "severity": 2495.508
             },
             "vegetation_indices": {
-                "NVDI": 7839,
+                "NDVI": 7839,
                 "EVI": 3941,
                 "LAI": 26,
                 "FPAR": 75
@@ -3800,7 +3800,7 @@
                 "severity": 2491.5164
             },
             "vegetation_indices": {
-                "NVDI": 5444,
+                "NDVI": 5444,
                 "EVI": 2851,
                 "LAI": 10,
                 "FPAR": 46
@@ -3822,7 +3822,7 @@
                 "severity": 4983.782999999999
             },
             "vegetation_indices": {
-                "NVDI": 7589,
+                "NDVI": 7589,
                 "EVI": 3675,
                 "LAI": 18,
                 "FPAR": 65
@@ -3844,7 +3844,7 @@
                 "severity": 2492.5812
             },
             "vegetation_indices": {
-                "NVDI": 4524,
+                "NDVI": 4524,
                 "EVI": 1738,
                 "LAI": null,
                 "FPAR": null
@@ -3866,7 +3866,7 @@
                 "severity": 4986.1504
             },
             "vegetation_indices": {
-                "NVDI": 5390,
+                "NDVI": 5390,
                 "EVI": 3149,
                 "LAI": 7,
                 "FPAR": 41
@@ -3888,7 +3888,7 @@
                 "severity": 9931.066219607843
             },
             "vegetation_indices": {
-                "NVDI": 4758,
+                "NDVI": 4758,
                 "EVI": 2287,
                 "LAI": 5,
                 "FPAR": 27
@@ -3910,7 +3910,7 @@
                 "severity": 2492.3524
             },
             "vegetation_indices": {
-                "NVDI": 5583,
+                "NDVI": 5583,
                 "EVI": 3193,
                 "LAI": 8,
                 "FPAR": 38
@@ -3932,7 +3932,7 @@
                 "severity": 2495.6556
             },
             "vegetation_indices": {
-                "NVDI": 7990,
+                "NDVI": 7990,
                 "EVI": 3345,
                 "LAI": 32,
                 "FPAR": 84
@@ -3954,7 +3954,7 @@
                 "severity": 2492.1144
             },
             "vegetation_indices": {
-                "NVDI": 5346,
+                "NDVI": 5346,
                 "EVI": 2845,
                 "LAI": 8,
                 "FPAR": 38
@@ -3976,7 +3976,7 @@
                 "severity": 4982.5734
             },
             "vegetation_indices": {
-                "NVDI": 4079,
+                "NDVI": 4079,
                 "EVI": 2288,
                 "LAI": 7,
                 "FPAR": 37
@@ -3998,7 +3998,7 @@
                 "severity": 2494.294
             },
             "vegetation_indices": {
-                "NVDI": 2350,
+                "NDVI": 2350,
                 "EVI": 1532,
                 "LAI": 4,
                 "FPAR": 23
@@ -4020,7 +4020,7 @@
                 "severity": 8639.408053333333
             },
             "vegetation_indices": {
-                "NVDI": 812,
+                "NDVI": 812,
                 "EVI": 301,
                 "LAI": null,
                 "FPAR": null
@@ -4042,7 +4042,7 @@
                 "severity": 2493.3228
             },
             "vegetation_indices": {
-                "NVDI": 4574,
+                "NDVI": 4574,
                 "EVI": 2285,
                 "LAI": 6,
                 "FPAR": 36
@@ -4064,7 +4064,7 @@
                 "severity": 2493.4672
             },
             "vegetation_indices": {
-                "NVDI": 3667,
+                "NDVI": 3667,
                 "EVI": 1764,
                 "LAI": 3,
                 "FPAR": 23
@@ -4086,7 +4086,7 @@
                 "severity": 2491.8686
             },
             "vegetation_indices": {
-                "NVDI": 4859,
+                "NDVI": 4859,
                 "EVI": 2515,
                 "LAI": 11,
                 "FPAR": 45
@@ -4108,7 +4108,7 @@
                 "severity": 4988.3698
             },
             "vegetation_indices": {
-                "NVDI": 5334,
+                "NDVI": 5334,
                 "EVI": 2564,
                 "LAI": 6,
                 "FPAR": 36
@@ -4130,7 +4130,7 @@
                 "severity": 4986.1176
             },
             "vegetation_indices": {
-                "NVDI": 2350,
+                "NDVI": 2350,
                 "EVI": 1532,
                 "LAI": 5,
                 "FPAR": 30
@@ -4152,7 +4152,7 @@
                 "severity": 4393.866810980392
             },
             "vegetation_indices": {
-                "NVDI": 8042,
+                "NDVI": 8042,
                 "EVI": 2154,
                 "LAI": 34,
                 "FPAR": 86
@@ -4174,7 +4174,7 @@
                 "severity": 2661.986013333333
             },
             "vegetation_indices": {
-                "NVDI": 7628,
+                "NDVI": 7628,
                 "EVI": 5223,
                 "LAI": 48,
                 "FPAR": 88
@@ -4196,7 +4196,7 @@
                 "severity": 4984.496
             },
             "vegetation_indices": {
-                "NVDI": 5030,
+                "NDVI": 5030,
                 "EVI": 2298,
                 "LAI": 9,
                 "FPAR": 38
@@ -4218,7 +4218,7 @@
                 "severity": 9978.4368
             },
             "vegetation_indices": {
-                "NVDI": 5158,
+                "NDVI": 5158,
                 "EVI": 2623,
                 "LAI": 9,
                 "FPAR": 39
@@ -4240,7 +4240,7 @@
                 "severity": 9967.781200000001
             },
             "vegetation_indices": {
-                "NVDI": 3964,
+                "NDVI": 3964,
                 "EVI": 2181,
                 "LAI": 11,
                 "FPAR": 46
@@ -4262,7 +4262,7 @@
                 "severity": 2495.55
             },
             "vegetation_indices": {
-                "NVDI": 5610,
+                "NDVI": 5610,
                 "EVI": 3258,
                 "LAI": 13,
                 "FPAR": 58
@@ -4284,7 +4284,7 @@
                 "severity": 7478.2858
             },
             "vegetation_indices": {
-                "NVDI": 1706,
+                "NDVI": 1706,
                 "EVI": 1210,
                 "LAI": null,
                 "FPAR": null
@@ -4306,7 +4306,7 @@
                 "severity": 9978.673
             },
             "vegetation_indices": {
-                "NVDI": 6085,
+                "NDVI": 6085,
                 "EVI": 3578,
                 "LAI": 10,
                 "FPAR": 49
@@ -4328,7 +4328,7 @@
                 "severity": 7476.5776000000005
             },
             "vegetation_indices": {
-                "NVDI": 8174,
+                "NDVI": 8174,
                 "EVI": 5452,
                 "LAI": 17,
                 "FPAR": 70
@@ -4350,7 +4350,7 @@
                 "severity": 7474.159599999999
             },
             "vegetation_indices": {
-                "NVDI": 2939,
+                "NDVI": 2939,
                 "EVI": 1646,
                 "LAI": 5,
                 "FPAR": 27
@@ -4372,7 +4372,7 @@
                 "severity": 2490.215
             },
             "vegetation_indices": {
-                "NVDI": 3598,
+                "NDVI": 3598,
                 "EVI": 1939,
                 "LAI": 5,
                 "FPAR": 29
@@ -4394,7 +4394,7 @@
                 "severity": 17438.8698
             },
             "vegetation_indices": {
-                "NVDI": 6234,
+                "NDVI": 6234,
                 "EVI": 3942,
                 "LAI": 18,
                 "FPAR": 64
