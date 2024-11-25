@@ -1,0 +1,4405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.74922942825917,
+                    25.667381012297344
+                ]
+            },
+            "id": "200",
+            "properties": {
+                "fromdate": "2019-06-23",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2354,
+                "EVI": 1770,
+                "LAI": 3,
+                "FPAR": 18
+            },
+            "Elevation": 106.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.31589689814253,
+                    16.32149468932986
+                ]
+            },
+            "id": "201",
+            "properties": {
+                "fromdate": "2022-02-22",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3341,
+                "EVI": 2090,
+                "LAI": 5,
+                "FPAR": 26
+            },
+            "Elevation": 516.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.73976244644031,
+                    13.977781606615068
+                ]
+            },
+            "id": "202",
+            "properties": {
+                "fromdate": "2021-06-19",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5652,
+                "EVI": 2948,
+                "LAI": 9,
+                "FPAR": 42
+            },
+            "Elevation": 58.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.08654400262986,
+                    28.214184323647686
+                ]
+            },
+            "id": "203",
+            "properties": {
+                "fromdate": "2022-01-31",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 845,
+                "EVI": 575,
+                "LAI": 1,
+                "FPAR": 8
+            },
+            "Elevation": 183.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.04506237394757,
+                    23.99079518120547
+                ]
+            },
+            "id": "204",
+            "properties": {
+                "fromdate": "2019-09-09",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5770,
+                "EVI": 4728,
+                "LAI": 4,
+                "FPAR": 23
+            },
+            "Elevation": 76.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.24708396692324,
+                    22.737378986925464
+                ]
+            },
+            "id": "205",
+            "properties": {
+                "fromdate": "2024-08-11",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4693,
+                "EVI": 4149,
+                "LAI": 1,
+                "FPAR": 4
+            },
+            "Elevation": 1009.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.30914163413648,
+                    34.102929337606156
+                ]
+            },
+            "id": "206",
+            "properties": {
+                "fromdate": "2023-09-20",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1719,
+                "EVI": 657,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 4513.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.60175614027423,
+                    25.346935666186617
+                ]
+            },
+            "id": "207",
+            "properties": {
+                "fromdate": "2021-08-15",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2617,
+                "EVI": 1854,
+                "LAI": 5,
+                "FPAR": 25
+            },
+            "Elevation": 171.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.21314023571657,
+                    24.497780352247432
+                ]
+            },
+            "id": "208",
+            "properties": {
+                "fromdate": "2024-10-18",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7012,
+                "EVI": 3800,
+                "LAI": 15,
+                "FPAR": 69
+            },
+            "Elevation": 482.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.21212427840888,
+                    17.113586602916758
+                ]
+            },
+            "id": "209",
+            "properties": {
+                "fromdate": "2020-09-05",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6738,
+                "EVI": 4953,
+                "LAI": 7,
+                "FPAR": 33
+            },
+            "Elevation": 257.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.60669945189402,
+                    28.64883353195531
+                ]
+            },
+            "id": "210",
+            "properties": {
+                "fromdate": "2022-05-25",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1195,
+                "EVI": 834,
+                "LAI": 2,
+                "FPAR": 10
+            },
+            "Elevation": 237.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.01437435011381,
+                    27.015344538585563
+                ]
+            },
+            "id": "211",
+            "properties": {
+                "fromdate": "2020-05-07",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1401,
+                "EVI": 956,
+                "LAI": 2,
+                "FPAR": 13
+            },
+            "Elevation": 307.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.28559380421359,
+                    19.991766151104972
+                ]
+            },
+            "id": "212",
+            "properties": {
+                "fromdate": "2022-02-09",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5539,
+                "EVI": 3372,
+                "LAI": 10,
+                "FPAR": 48
+            },
+            "Elevation": 501.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.20144615224376,
+                    24.171526136350664
+                ]
+            },
+            "id": "213",
+            "properties": {
+                "fromdate": "2022-11-11",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4912,
+                "EVI": 2628,
+                "LAI": 9,
+                "FPAR": 43
+            },
+            "Elevation": 416.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.4886014301752,
+                    26.108081253342355
+                ]
+            },
+            "id": "214",
+            "properties": {
+                "fromdate": "2022-07-19",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4803,
+                "EVI": 3767,
+                "LAI": 1,
+                "FPAR": 7
+            },
+            "Elevation": 48.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.42782115883163,
+                    27.722709114829016
+                ]
+            },
+            "id": "215",
+            "properties": {
+                "fromdate": "2023-03-06",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1611,
+                "EVI": 990,
+                "LAI": 2,
+                "FPAR": 13
+            },
+            "Elevation": 321.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.43852648445748,
+                    25.499947615183217
+                ]
+            },
+            "id": "216",
+            "properties": {
+                "fromdate": "2019-08-05",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6538,
+                "EVI": 4323,
+                "LAI": 6,
+                "FPAR": 28
+            },
+            "Elevation": 101.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.43552927545963,
+                    14.998829189743054
+                ]
+            },
+            "id": "217",
+            "properties": {
+                "fromdate": "2024-02-22",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3879,
+                "EVI": 2440,
+                "LAI": 9,
+                "FPAR": 41
+            },
+            "Elevation": 113.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.5406614666581,
+                    27.38895812031348
+                ]
+            },
+            "id": "218",
+            "properties": {
+                "fromdate": "2021-12-27",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1218,
+                "EVI": 753,
+                "LAI": 1,
+                "FPAR": 9
+            },
+            "Elevation": 298.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.15457922187025,
+                    22.690602514505844
+                ]
+            },
+            "id": "219",
+            "properties": {
+                "fromdate": "2022-01-30",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6626,
+                "EVI": 4257,
+                "LAI": 10,
+                "FPAR": 51
+            },
+            "Elevation": 53.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.44822050283025,
+                    23.407170616216792
+                ]
+            },
+            "id": "220",
+            "properties": {
+                "fromdate": "2021-05-22",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2980,
+                "EVI": 1872,
+                "LAI": 6,
+                "FPAR": 26
+            },
+            "Elevation": 150.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.22974816658392,
+                    22.19553036245681
+                ]
+            },
+            "id": "221",
+            "properties": {
+                "fromdate": "2021-01-16",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6593,
+                "EVI": 3987,
+                "LAI": 19,
+                "FPAR": 68
+            },
+            "Elevation": 29.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.31350292110164,
+                    23.56188401168661
+                ]
+            },
+            "id": "222",
+            "properties": {
+                "fromdate": "2019-02-07",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3101,
+                "EVI": 1839,
+                "LAI": 5,
+                "FPAR": 26
+            },
+            "Elevation": 184.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.27671256619915,
+                    27.33116735691853
+                ]
+            },
+            "id": "223",
+            "properties": {
+                "fromdate": "2024-11-01",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1991,
+                "EVI": 1312,
+                "LAI": 2,
+                "FPAR": 20
+            },
+            "Elevation": 313.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.64710523368278,
+                    14.076960742704326
+                ]
+            },
+            "id": "224",
+            "properties": {
+                "fromdate": "2019-11-16",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6619,
+                "EVI": 1751,
+                "LAI": 3,
+                "FPAR": 18
+            },
+            "Elevation": 43.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.75214618404105,
+                    26.74000193758542
+                ]
+            },
+            "id": "225",
+            "properties": {
+                "fromdate": "2019-02-17",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4257,
+                "EVI": 2766,
+                "LAI": 6,
+                "FPAR": 35
+            },
+            "Elevation": 352.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.8489309188878,
+                    26.619464296833844
+                ]
+            },
+            "id": "226",
+            "properties": {
+                "fromdate": "2021-02-26",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4877,
+                "EVI": 2870,
+                "LAI": 7,
+                "FPAR": 37
+            },
+            "Elevation": 88.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.16267951130563,
+                    27.888763165758245
+                ]
+            },
+            "id": "227",
+            "properties": {
+                "fromdate": "2019-10-19",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2573,
+                "EVI": 1627,
+                "LAI": 2,
+                "FPAR": 16
+            },
+            "Elevation": 155.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.79295283698075,
+                    10.997493750058373
+                ]
+            },
+            "id": "228",
+            "properties": {
+                "fromdate": "2019-12-03",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5230,
+                "EVI": 3204,
+                "LAI": 7,
+                "FPAR": 43
+            },
+            "Elevation": 210.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.25857496984152,
+                    36.31246396855755
+                ]
+            },
+            "id": "229",
+            "properties": {
+                "fromdate": "2024-04-05",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": -22,
+                "EVI": -20,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 3919.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.65798979243165,
+                    22.327638983387416
+                ]
+            },
+            "id": "230",
+            "properties": {
+                "fromdate": "2024-07-16",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2739,
+                "EVI": 2077,
+                "LAI": 3,
+                "FPAR": 17
+            },
+            "Elevation": 97.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.96827585274526,
+                    23.199121313436958
+                ]
+            },
+            "id": "231",
+            "properties": {
+                "fromdate": "2024-09-29",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7144,
+                "EVI": 4642,
+                "LAI": 21,
+                "FPAR": 73
+            },
+            "Elevation": 655.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.16302339849199,
+                    32.71277641826664
+                ]
+            },
+            "id": "232",
+            "properties": {
+                "fromdate": "2024-11-10",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1678,
+                "EVI": 729,
+                "LAI": 1,
+                "FPAR": 9
+            },
+            "Elevation": 3586.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.1164791222412,
+                    24.78183715644744
+                ]
+            },
+            "id": "233",
+            "properties": {
+                "fromdate": "2024-06-21",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2780,
+                "EVI": 1700,
+                "LAI": 2,
+                "FPAR": 13
+            },
+            "Elevation": 367.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.38804214947716,
+                    25.986051799812056
+                ]
+            },
+            "id": "234",
+            "properties": {
+                "fromdate": "2020-03-27",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3267,
+                "EVI": 2212,
+                "LAI": 5,
+                "FPAR": 27
+            },
+            "Elevation": 94.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.58204489711272,
+                    28.871693586969553
+                ]
+            },
+            "id": "235",
+            "properties": {
+                "fromdate": "2024-01-29",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4974,
+                "EVI": 2689,
+                "LAI": 7,
+                "FPAR": 45
+            },
+            "Elevation": 208.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.56291828089641,
+                    20.350616503353642
+                ]
+            },
+            "id": "236",
+            "properties": {
+                "fromdate": "2020-03-13",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4037,
+                "EVI": 2270,
+                "LAI": 5,
+                "FPAR": 25
+            },
+            "Elevation": 626.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.72645585633614,
+                    33.92526969837459
+                ]
+            },
+            "id": "237",
+            "properties": {
+                "fromdate": "2020-06-19",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 649,
+                "EVI": 684,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 3954.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.83130915240747,
+                    26.798852201045012
+                ]
+            },
+            "id": "238",
+            "properties": {
+                "fromdate": "2019-04-14",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2255,
+                "EVI": 1061,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 80.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.59285076599978,
+                    26.221879709609524
+                ]
+            },
+            "id": "239",
+            "properties": {
+                "fromdate": "2019-03-07",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6172,
+                "EVI": 4013,
+                "LAI": 16,
+                "FPAR": 57
+            },
+            "Elevation": 194.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.90036877626892,
+                    25.146589464722993
+                ]
+            },
+            "id": "240",
+            "properties": {
+                "fromdate": "2021-02-23",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5334,
+                "EVI": 2733,
+                "LAI": 10,
+                "FPAR": 41
+            },
+            "Elevation": 40.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.19017031482468,
+                    25.46027854282245
+                ]
+            },
+            "id": "241",
+            "properties": {
+                "fromdate": "2019-11-04",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2854,
+                "EVI": 1781,
+                "LAI": 4,
+                "FPAR": 24
+            },
+            "Elevation": 180.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.57797175340765,
+                    21.07128000896363
+                ]
+            },
+            "id": "242",
+            "properties": {
+                "fromdate": "2021-03-16",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3443,
+                "EVI": 1464,
+                "LAI": 3,
+                "FPAR": 20
+            },
+            "Elevation": 33.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.49328069588404,
+                    26.217023353691435
+                ]
+            },
+            "id": "243",
+            "properties": {
+                "fromdate": "2019-07-16",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5357,
+                "EVI": 2742,
+                "LAI": 3,
+                "FPAR": 16
+            },
+            "Elevation": 52.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.76413393996316,
+                    20.095963292070266
+                ]
+            },
+            "id": "244",
+            "properties": {
+                "fromdate": "2021-08-18",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5167,
+                "EVI": 4657,
+                "LAI": 16,
+                "FPAR": 55
+            },
+            "Elevation": 534.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.36750012707344,
+                    21.605238848795068
+                ]
+            },
+            "id": "245",
+            "properties": {
+                "fromdate": "2020-02-22",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2509,
+                "EVI": 1300,
+                "LAI": 4,
+                "FPAR": 21
+            },
+            "Elevation": 564.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.81690901878258,
+                    26.605949246854998
+                ]
+            },
+            "id": "246",
+            "properties": {
+                "fromdate": "2021-11-13",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3396,
+                "EVI": 1931,
+                "LAI": 7,
+                "FPAR": 38
+            },
+            "Elevation": 310.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.12809661539323,
+                    10.489500477871712
+                ]
+            },
+            "id": "247",
+            "properties": {
+                "fromdate": "2023-03-01",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4442,
+                "EVI": 2508,
+                "LAI": 7,
+                "FPAR": 37
+            },
+            "Elevation": 304.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.11803689325336,
+                    23.18791618712073
+                ]
+            },
+            "id": "248",
+            "properties": {
+                "fromdate": "2020-12-13",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2734,
+                "EVI": 1334,
+                "LAI": 3,
+                "FPAR": 24
+            },
+            "Elevation": 101.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.17469521832147,
+                    24.643649694374176
+                ]
+            },
+            "id": "249",
+            "properties": {
+                "fromdate": "2019-09-04",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7317,
+                "EVI": 4954,
+                "LAI": 22,
+                "FPAR": 69
+            },
+            "Elevation": 23.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.12127560527267,
+                    17.25314006516122
+                ]
+            },
+            "id": "250",
+            "properties": {
+                "fromdate": "2022-10-29",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5189,
+                "EVI": 3010,
+                "LAI": 8,
+                "FPAR": 46
+            },
+            "Elevation": 325.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.04406817965626,
+                    22.12493461722119
+                ]
+            },
+            "id": "251",
+            "properties": {
+                "fromdate": "2022-12-10",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4300,
+                "EVI": 2568,
+                "LAI": 7,
+                "FPAR": 38
+            },
+            "Elevation": 120.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.484161373725,
+                    21.554615580458762
+                ]
+            },
+            "id": "252",
+            "properties": {
+                "fromdate": "2023-09-04",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7826,
+                "EVI": 5168,
+                "LAI": 18,
+                "FPAR": 66
+            },
+            "Elevation": 296.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.49864306721227,
+                    26.118685969564815
+                ]
+            },
+            "id": "253",
+            "properties": {
+                "fromdate": "2019-01-15",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4314,
+                "EVI": 2446,
+                "LAI": 5,
+                "FPAR": 30
+            },
+            "Elevation": 49.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.2275951609309,
+                    25.852760244087897
+                ]
+            },
+            "id": "254",
+            "properties": {
+                "fromdate": "2020-08-25",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4725,
+                "EVI": 3324,
+                "LAI": 9,
+                "FPAR": 43
+            },
+            "Elevation": 242.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05145628536305,
+                    9.385985370793078
+                ]
+            },
+            "id": "255",
+            "properties": {
+                "fromdate": "2019-09-23",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3679,
+                "EVI": 2387,
+                "LAI": 3,
+                "FPAR": 14
+            },
+            "Elevation": 69.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.45533689800835,
+                    27.056873500102533
+                ]
+            },
+            "id": "256",
+            "properties": {
+                "fromdate": "2023-03-05",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5068,
+                "EVI": 2222,
+                "LAI": 9,
+                "FPAR": 37
+            },
+            "Elevation": 1132.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.16397153732085,
+                    23.86353644770813
+                ]
+            },
+            "id": "257",
+            "properties": {
+                "fromdate": "2023-03-21",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1921,
+                "EVI": 1086,
+                "LAI": 3,
+                "FPAR": 14
+            },
+            "Elevation": 55.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1225408831073,
+                    33.078028244202834
+                ]
+            },
+            "id": "258",
+            "properties": {
+                "fromdate": "2020-02-03",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 865,
+                "EVI": 654,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 4154.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.51590346766221,
+                    19.473420777144636
+                ]
+            },
+            "id": "259",
+            "properties": {
+                "fromdate": "2019-04-17",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4605,
+                "EVI": 2522,
+                "LAI": 11,
+                "FPAR": 39
+            },
+            "Elevation": 562.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.59938330674099,
+                    26.169968126929735
+                ]
+            },
+            "id": "260",
+            "properties": {
+                "fromdate": "2020-12-04",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3743,
+                "EVI": 2286,
+                "LAI": 4,
+                "FPAR": 31
+            },
+            "Elevation": 128.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.21535729819816,
+                    25.03065389825203
+                ]
+            },
+            "id": "261",
+            "properties": {
+                "fromdate": "2024-01-02",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5788,
+                "EVI": 3195,
+                "LAI": 11,
+                "FPAR": 51
+            },
+            "Elevation": 476.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.22930911711427,
+                    15.219229583614892
+                ]
+            },
+            "id": "262",
+            "properties": {
+                "fromdate": "2022-11-27",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6621,
+                "EVI": 3861,
+                "LAI": 9,
+                "FPAR": 43
+            },
+            "Elevation": 186.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.78182779633832,
+                    24.451484776732293
+                ]
+            },
+            "id": "263",
+            "properties": {
+                "fromdate": "2019-01-31",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2786,
+                "EVI": 1430,
+                "LAI": 4,
+                "FPAR": 25
+            },
+            "Elevation": 273.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.53848289762989,
+                    34.21130192339216
+                ]
+            },
+            "id": "264",
+            "properties": {
+                "fromdate": "2024-07-29",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 332,
+                "EVI": 224,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 4586.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.05689864895601,
+                    20.028744017626195
+                ]
+            },
+            "id": "265",
+            "properties": {
+                "fromdate": "2024-02-28",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4795,
+                "EVI": 2590,
+                "LAI": 6,
+                "FPAR": 30
+            },
+            "Elevation": 285.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.88269414890362,
+                    34.08392001898743
+                ]
+            },
+            "id": "266",
+            "properties": {
+                "fromdate": "2021-06-01",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 8393,
+                "EVI": 5172,
+                "LAI": 42,
+                "FPAR": 89
+            },
+            "Elevation": 1655.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.79560484525179,
+                    22.191834323282603
+                ]
+            },
+            "id": "267",
+            "properties": {
+                "fromdate": "2024-03-25",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3327,
+                "EVI": 2226,
+                "LAI": 6,
+                "FPAR": 32
+            },
+            "Elevation": 88.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.35321953424567,
+                    15.148443022693817
+                ]
+            },
+            "id": "268",
+            "properties": {
+                "fromdate": "2019-05-02",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2218,
+                "EVI": 1509,
+                "LAI": 4,
+                "FPAR": 23
+            },
+            "Elevation": 129.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.91789473978366,
+                    34.54445464233312
+                ]
+            },
+            "id": "269",
+            "properties": {
+                "fromdate": "2023-11-21",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": -377,
+                "EVI": -224,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 4639.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.06450263967919,
+                    30.89773524299987
+                ]
+            },
+            "id": "270",
+            "properties": {
+                "fromdate": "2022-08-06",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1642,
+                "EVI": 958,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 4989.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.62284872160546,
+                    26.24601429577959
+                ]
+            },
+            "id": "271",
+            "properties": {
+                "fromdate": "2021-08-18",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 8533,
+                "EVI": 6585,
+                "LAI": 6,
+                "FPAR": 31
+            },
+            "Elevation": 52.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.15386287822953,
+                    27.116082931475166
+                ]
+            },
+            "id": "272",
+            "properties": {
+                "fromdate": "2019-02-25",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4907,
+                "EVI": 2963,
+                "LAI": 8,
+                "FPAR": 44
+            },
+            "Elevation": 210.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.34468587566259,
+                    23.139094569909012
+                ]
+            },
+            "id": "273",
+            "properties": {
+                "fromdate": "2023-01-22",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2684,
+                "EVI": 1267,
+                "LAI": 3,
+                "FPAR": 21
+            },
+            "Elevation": 9.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.14385799787865,
+                    22.664383314529
+                ]
+            },
+            "id": "274",
+            "properties": {
+                "fromdate": "2019-02-20",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1836,
+                "EVI": 621,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 1.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.84826481047605,
+                    25.14987725591062
+                ]
+            },
+            "id": "275",
+            "properties": {
+                "fromdate": "2022-04-22",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1147,
+                "EVI": 858,
+                "LAI": 2,
+                "FPAR": 10
+            },
+            "Elevation": 160.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7561635795265,
+                    20.328293041367207
+                ]
+            },
+            "id": "276",
+            "properties": {
+                "fromdate": "2024-03-27",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3107,
+                "EVI": 1729,
+                "LAI": 5,
+                "FPAR": 24
+            },
+            "Elevation": 346.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.32686687850705,
+                    16.10945590013319
+                ]
+            },
+            "id": "277",
+            "properties": {
+                "fromdate": "2019-11-16",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6778,
+                "EVI": 3765,
+                "LAI": 10,
+                "FPAR": 44
+            },
+            "Elevation": 316.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.6725700761949,
+                    24.935112058861485
+                ]
+            },
+            "id": "278",
+            "properties": {
+                "fromdate": "2023-05-19",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3627,
+                "EVI": 2104,
+                "LAI": 5,
+                "FPAR": 28
+            },
+            "Elevation": 97.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.09991328251807,
+                    27.46408903592678
+                ]
+            },
+            "id": "279",
+            "properties": {
+                "fromdate": "2019-03-02",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2051,
+                "EVI": 1435,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 292.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.81700986623737,
+                    22.90626009872685
+                ]
+            },
+            "id": "280",
+            "properties": {
+                "fromdate": "2022-12-25",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3950,
+                "EVI": 2407,
+                "LAI": 7,
+                "FPAR": 48
+            },
+            "Elevation": 34.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.63173215044937,
+                    25.487211673312327
+                ]
+            },
+            "id": "281",
+            "properties": {
+                "fromdate": "2020-10-08",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6462,
+                "EVI": 3860,
+                "LAI": 12,
+                "FPAR": 56
+            },
+            "Elevation": 119.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.94473431906007,
+                    22.967608961398316
+                ]
+            },
+            "id": "282",
+            "properties": {
+                "fromdate": "2020-05-26",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2375,
+                "EVI": 1733,
+                "LAI": 7,
+                "FPAR": 37
+            },
+            "Elevation": 61.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5781777866032,
+                    25.74727591125236
+                ]
+            },
+            "id": "283",
+            "properties": {
+                "fromdate": "2019-10-26",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2560,
+                "EVI": 1248,
+                "LAI": 5,
+                "FPAR": 26
+            },
+            "Elevation": 103.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.14500785796642,
+                    29.06969866384559
+                ]
+            },
+            "id": "284",
+            "properties": {
+                "fromdate": "2024-03-03",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5444,
+                "EVI": 3658,
+                "LAI": 7,
+                "FPAR": 33
+            },
+            "Elevation": 151.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.40756175988659,
+                    22.22910452882502
+                ]
+            },
+            "id": "285",
+            "properties": {
+                "fromdate": "2023-11-12",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4540,
+                "EVI": 3007,
+                "LAI": 7,
+                "FPAR": 43
+            },
+            "Elevation": 161.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.35672393452887,
+                    26.6125120777081
+                ]
+            },
+            "id": "286",
+            "properties": {
+                "fromdate": "2019-03-03",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5256,
+                "EVI": 3379,
+                "LAI": 10,
+                "FPAR": 48
+            },
+            "Elevation": 118.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.97195827383437,
+                    23.303876937854675
+                ]
+            },
+            "id": "287",
+            "properties": {
+                "fromdate": "2019-09-15",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7245,
+                "EVI": 4241,
+                "LAI": 2,
+                "FPAR": 10
+            },
+            "Elevation": 716.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.3091143323992,
+                    21.796070941882217
+                ]
+            },
+            "id": "288",
+            "properties": {
+                "fromdate": "2022-05-20",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2224,
+                "EVI": 1124,
+                "LAI": 3,
+                "FPAR": 13
+            },
+            "Elevation": 152.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.35160215768958,
+                    34.542989382423166
+                ]
+            },
+            "id": "289",
+            "properties": {
+                "fromdate": "2022-10-07",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": -21,
+                "EVI": -17,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 5295.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.12556343434508,
+                    16.918080422194677
+                ]
+            },
+            "id": "290",
+            "properties": {
+                "fromdate": "2021-01-25",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3395,
+                "EVI": 2019,
+                "LAI": 5,
+                "FPAR": 30
+            },
+            "Elevation": 463.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69475969025474,
+                    10.10213239391181
+                ]
+            },
+            "id": "291",
+            "properties": {
+                "fromdate": "2023-11-01",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7517,
+                "EVI": 4527,
+                "LAI": 10,
+                "FPAR": 51
+            },
+            "Elevation": 251.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.51144457600111,
+                    20.73191750002527
+                ]
+            },
+            "id": "292",
+            "properties": {
+                "fromdate": "2024-09-30",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 8465,
+                "EVI": 4243,
+                "LAI": 26,
+                "FPAR": 78
+            },
+            "Elevation": 202.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.47235654959255,
+                    22.90060218898947
+                ]
+            },
+            "id": "293",
+            "properties": {
+                "fromdate": "2023-04-12",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3389,
+                "EVI": 1842,
+                "LAI": 5,
+                "FPAR": 26
+            },
+            "Elevation": 626.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.95626691973654,
+                    13.849574181968634
+                ]
+            },
+            "id": "294",
+            "properties": {
+                "fromdate": "2021-01-02",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6337,
+                "EVI": 2379,
+                "LAI": 14,
+                "FPAR": 52
+            },
+            "Elevation": 608.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.56041267633005,
+                    22.660701862238152
+                ]
+            },
+            "id": "295",
+            "properties": {
+                "fromdate": "2021-05-12",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4163,
+                "EVI": 2136,
+                "LAI": 9,
+                "FPAR": 32
+            },
+            "Elevation": 610.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.99949441414815,
+                    22.946182223542404
+                ]
+            },
+            "id": "296",
+            "properties": {
+                "fromdate": "2021-07-13",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2362,
+                "EVI": 1659,
+                "LAI": 2,
+                "FPAR": 8
+            },
+            "Elevation": 595.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1548814926996,
+                    34.938816561037875
+                ]
+            },
+            "id": "297",
+            "properties": {
+                "fromdate": "2023-01-04",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 700,
+                "EVI": 695,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 5450.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.29632634002404,
+                    20.962060150404636
+                ]
+            },
+            "id": "298",
+            "properties": {
+                "fromdate": "2022-06-13",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3069,
+                "EVI": 1479,
+                "LAI": 1,
+                "FPAR": 6
+            },
+            "Elevation": 223.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.50616051612585,
+                    30.306293463029682
+                ]
+            },
+            "id": "299",
+            "properties": {
+                "fromdate": "2024-06-07",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6097,
+                "EVI": 2794,
+                "LAI": 12,
+                "FPAR": 50
+            },
+            "Elevation": 3406.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.42355318718494,
+                    22.608777507842625
+                ]
+            },
+            "id": "300",
+            "properties": {
+                "fromdate": "2019-09-12",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6750,
+                "EVI": 4414,
+                "LAI": 7,
+                "FPAR": 31
+            },
+            "Elevation": 77.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.2173044225428,
+                    27.253762571728725
+                ]
+            },
+            "id": "301",
+            "properties": {
+                "fromdate": "2019-08-22",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1548,
+                "EVI": 1170,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 249.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.27845738892061,
+                    22.77822242919286
+                ]
+            },
+            "id": "302",
+            "properties": {
+                "fromdate": "2022-01-06",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4425,
+                "EVI": 2163,
+                "LAI": 7,
+                "FPAR": 35
+            },
+            "Elevation": 35.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.22940532352717,
+                    24.58970764878662
+                ]
+            },
+            "id": "303",
+            "properties": {
+                "fromdate": "2020-12-09",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7026,
+                "EVI": 3105,
+                "LAI": 14,
+                "FPAR": 58
+            },
+            "Elevation": 481.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.45378480422734,
+                    20.290717371343348
+                ]
+            },
+            "id": "304",
+            "properties": {
+                "fromdate": "2021-04-22",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2363,
+                "EVI": 1172,
+                "LAI": 3,
+                "FPAR": 14
+            },
+            "Elevation": 456.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.49254137527886,
+                    32.90461212989557
+                ]
+            },
+            "id": "305",
+            "properties": {
+                "fromdate": "2020-09-29",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 555,
+                "EVI": 404,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 5582.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.47862622173406,
+                    15.238104667780396
+                ]
+            },
+            "id": "306",
+            "properties": {
+                "fromdate": "2019-10-14",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6134,
+                "EVI": 4477,
+                "LAI": 20,
+                "FPAR": 66
+            },
+            "Elevation": 127.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.51501440496946,
+                    26.434956209894604
+                ]
+            },
+            "id": "307",
+            "properties": {
+                "fromdate": "2022-08-06",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5266,
+                "EVI": 3449,
+                "LAI": 10,
+                "FPAR": 46
+            },
+            "Elevation": 247.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.00790304491218,
+                    26.22450532714767
+                ]
+            },
+            "id": "308",
+            "properties": {
+                "fromdate": "2021-04-02",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1757,
+                "EVI": 1283,
+                "LAI": 2,
+                "FPAR": 13
+            },
+            "Elevation": 305.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.35645173685474,
+                    28.755921220744128
+                ]
+            },
+            "id": "309",
+            "properties": {
+                "fromdate": "2022-09-01",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3620,
+                "EVI": 2497,
+                "LAI": 6,
+                "FPAR": 33
+            },
+            "Elevation": 213.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.12849272117826,
+                    26.892567991022034
+                ]
+            },
+            "id": "310",
+            "properties": {
+                "fromdate": "2024-06-21",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 962,
+                "EVI": 671,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 101.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.98257169758817,
+                    26.292811218987772
+                ]
+            },
+            "id": "311",
+            "properties": {
+                "fromdate": "2022-06-25",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2232,
+                "EVI": 1383,
+                "LAI": 2,
+                "FPAR": 11
+            },
+            "Elevation": 301.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.0633533573228,
+                    25.151490574190657
+                ]
+            },
+            "id": "312",
+            "properties": {
+                "fromdate": "2022-11-28",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3619,
+                "EVI": 2155,
+                "LAI": 3,
+                "FPAR": 30
+            },
+            "Elevation": 68.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.75137663055175,
+                    20.587175522686074
+                ]
+            },
+            "id": "313",
+            "properties": {
+                "fromdate": "2023-03-26",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2913,
+                "EVI": 1528,
+                "LAI": 1,
+                "FPAR": 6
+            },
+            "Elevation": 322.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.93458103864131,
+                    20.12757111259702
+                ]
+            },
+            "id": "314",
+            "properties": {
+                "fromdate": "2022-11-07",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4688,
+                "EVI": 2035,
+                "LAI": 5,
+                "FPAR": 31
+            },
+            "Elevation": 530.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.11558443369162,
+                    34.019397990095875
+                ]
+            },
+            "id": "315",
+            "properties": {
+                "fromdate": "2023-06-14",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 127,
+                "EVI": 127,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 5014.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.64058162263294,
+                    25.29811797446774
+                ]
+            },
+            "id": "316",
+            "properties": {
+                "fromdate": "2021-02-28",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5722,
+                "EVI": 3778,
+                "LAI": 8,
+                "FPAR": 36
+            },
+            "Elevation": 46.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.65574826073862,
+                    26.03707694739182
+                ]
+            },
+            "id": "317",
+            "properties": {
+                "fromdate": "2023-11-25",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4140,
+                "EVI": 2351,
+                "LAI": 6,
+                "FPAR": 43
+            },
+            "Elevation": 436.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.89148106345718,
+                    30.813976655954317
+                ]
+            },
+            "id": "318",
+            "properties": {
+                "fromdate": "2021-09-24",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 168,
+                "EVI": 119,
+                "LAI": 1,
+                "FPAR": 7
+            },
+            "Elevation": 5551.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.31998760794384,
+                    15.21640939800454
+                ]
+            },
+            "id": "319",
+            "properties": {
+                "fromdate": "2023-04-03",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3390,
+                "EVI": 1995,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 492.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.50138627003068,
+                    20.890337370461594
+                ]
+            },
+            "id": "320",
+            "properties": {
+                "fromdate": "2020-05-11",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2120,
+                "EVI": 822,
+                "LAI": 1,
+                "FPAR": 6
+            },
+            "Elevation": 246.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.08087003139786,
+                    26.159800660826132
+                ]
+            },
+            "id": "321",
+            "properties": {
+                "fromdate": "2021-06-27",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2767,
+                "EVI": 1652,
+                "LAI": 3,
+                "FPAR": 17
+            },
+            "Elevation": 363.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.87060406527185,
+                    26.30356684364241
+                ]
+            },
+            "id": "322",
+            "properties": {
+                "fromdate": "2021-01-20",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7258,
+                "EVI": 4060,
+                "LAI": 27,
+                "FPAR": 81
+            },
+            "Elevation": 51.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.21186594728948,
+                    17.8172816703744
+                ]
+            },
+            "id": "323",
+            "properties": {
+                "fromdate": "2019-05-05",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2379,
+                "EVI": 1665,
+                "LAI": 6,
+                "FPAR": 26
+            },
+            "Elevation": 425.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.06593687245065,
+                    34.70725279810277
+                ]
+            },
+            "id": "324",
+            "properties": {
+                "fromdate": "2020-03-22",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": -292,
+                "EVI": -320,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 5333.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.18922777640614,
+                    26.8494762746897
+                ]
+            },
+            "id": "325",
+            "properties": {
+                "fromdate": "2020-06-15",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2629,
+                "EVI": 1904,
+                "LAI": 4,
+                "FPAR": 23
+            },
+            "Elevation": 332.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.97526655339024,
+                    26.541670892513398
+                ]
+            },
+            "id": "326",
+            "properties": {
+                "fromdate": "2023-09-12",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3277,
+                "EVI": 2112,
+                "LAI": 7,
+                "FPAR": 33
+            },
+            "Elevation": 257.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.40976387586214,
+                    35.499912997589234
+                ]
+            },
+            "id": "327",
+            "properties": {
+                "fromdate": "2020-09-26",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2391,
+                "EVI": 1307,
+                "LAI": 2,
+                "FPAR": 12
+            },
+            "Elevation": 3287.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.60702327540933,
+                    20.78361158388619
+                ]
+            },
+            "id": "328",
+            "properties": {
+                "fromdate": "2023-04-07",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2616,
+                "EVI": 1173,
+                "LAI": 3,
+                "FPAR": 18
+            },
+            "Elevation": 262.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.00877119567713,
+                    10.762084088012546
+                ]
+            },
+            "id": "329",
+            "properties": {
+                "fromdate": "2024-08-07",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5848,
+                "EVI": 3661,
+                "LAI": 8,
+                "FPAR": 39
+            },
+            "Elevation": 181.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.21238601393078,
+                    31.118289344287067
+                ]
+            },
+            "id": "330",
+            "properties": {
+                "fromdate": "2023-11-07",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 50,
+                "EVI": 30,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 5325.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.06155490617654,
+                    20.71808683683864
+                ]
+            },
+            "id": "331",
+            "properties": {
+                "fromdate": "2019-05-23",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1638,
+                "EVI": 946,
+                "LAI": 2,
+                "FPAR": 12
+            },
+            "Elevation": 316.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.81461913452799,
+                    25.88772758122217
+                ]
+            },
+            "id": "332",
+            "properties": {
+                "fromdate": "2021-01-15",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6310,
+                "EVI": 4167,
+                "LAI": 10,
+                "FPAR": 53
+            },
+            "Elevation": 102.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.69124825801728,
+                    25.39105270452786
+                ]
+            },
+            "id": "333",
+            "properties": {
+                "fromdate": "2019-10-17",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5628,
+                "EVI": 3644,
+                "LAI": 13,
+                "FPAR": 56
+            },
+            "Elevation": 426.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.54350026837973,
+                    25.496525554571612
+                ]
+            },
+            "id": "334",
+            "properties": {
+                "fromdate": "2024-06-09",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2502,
+                "EVI": 1935,
+                "LAI": 3,
+                "FPAR": 18
+            },
+            "Elevation": 291.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.35812983700407,
+                    32.46071490678402
+                ]
+            },
+            "id": "335",
+            "properties": {
+                "fromdate": "2022-06-23",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 956,
+                "EVI": 574,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 4550.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.41228116389526,
+                    35.35067891592293
+                ]
+            },
+            "id": "336",
+            "properties": {
+                "fromdate": "2019-01-10",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": -277,
+                "EVI": -299,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 4464.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.50312852002719,
+                    23.434992378850822
+                ]
+            },
+            "id": "337",
+            "properties": {
+                "fromdate": "2020-04-29",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3609,
+                "EVI": 2408,
+                "LAI": 6,
+                "FPAR": 31
+            },
+            "Elevation": 150.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.57913620947615,
+                    9.780660505573616
+                ]
+            },
+            "id": "338",
+            "properties": {
+                "fromdate": "2021-04-21",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 8274,
+                "EVI": 6548,
+                "LAI": 44,
+                "FPAR": 83
+            },
+            "Elevation": 69.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.8831976562151,
+                    25.33077214105967
+                ]
+            },
+            "id": "339",
+            "properties": {
+                "fromdate": "2020-08-16",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4699,
+                "EVI": 3359,
+                "LAI": 8,
+                "FPAR": 37
+            },
+            "Elevation": 169.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.91346814923679,
+                    26.7488288107504
+                ]
+            },
+            "id": "340",
+            "properties": {
+                "fromdate": "2019-05-11",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6419,
+                "EVI": 4317,
+                "LAI": 10,
+                "FPAR": 39
+            },
+            "Elevation": 81.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.37165525791015,
+                    14.347043645604387
+                ]
+            },
+            "id": "341",
+            "properties": {
+                "fromdate": "2023-04-29",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3154,
+                "EVI": 1310,
+                "LAI": 6,
+                "FPAR": 22
+            },
+            "Elevation": 690.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.10536054386672,
+                    11.81039820115843
+                ]
+            },
+            "id": "342",
+            "properties": {
+                "fromdate": "2021-07-24",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7837,
+                "EVI": 5627,
+                "LAI": 30,
+                "FPAR": 74
+            },
+            "Elevation": 779.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.43743928070785,
+                    22.946824890235725
+                ]
+            },
+            "id": "343",
+            "properties": {
+                "fromdate": "2019-04-28",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4621,
+                "EVI": 3011,
+                "LAI": 7,
+                "FPAR": 35
+            },
+            "Elevation": 685.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.13632909164113,
+                    35.14768059860842
+                ]
+            },
+            "id": "344",
+            "properties": {
+                "fromdate": "2023-12-19",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 462,
+                "EVI": 362,
+                "LAI": 1,
+                "FPAR": 9
+            },
+            "Elevation": 3948.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.7673542663988,
+                    21.908281758239877
+                ]
+            },
+            "id": "345",
+            "properties": {
+                "fromdate": "2019-11-26",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5437,
+                "EVI": 2850,
+                "LAI": 13,
+                "FPAR": 55
+            },
+            "Elevation": 108.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.38211415398528,
+                    32.950383136489
+                ]
+            },
+            "id": "346",
+            "properties": {
+                "fromdate": "2019-03-01",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": -473,
+                "EVI": -474,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 4804.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.29400325454527,
+                    23.401212718788607
+                ]
+            },
+            "id": "347",
+            "properties": {
+                "fromdate": "2022-03-09",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3597,
+                "EVI": 2092,
+                "LAI": 6,
+                "FPAR": 28
+            },
+            "Elevation": 255.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.00155514519808,
+                    32.626321867652855
+                ]
+            },
+            "id": "348",
+            "properties": {
+                "fromdate": "2024-04-07",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 486,
+                "EVI": 423,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 4902.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.42985577227351,
+                    21.970962517074092
+                ]
+            },
+            "id": "349",
+            "properties": {
+                "fromdate": "2020-12-02",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4917,
+                "EVI": 2661,
+                "LAI": 9,
+                "FPAR": 45
+            },
+            "Elevation": 135.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.8805646963658,
+                    23.076396437077427
+                ]
+            },
+            "id": "350",
+            "properties": {
+                "fromdate": "2020-10-30",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4385,
+                "EVI": 2818,
+                "LAI": 7,
+                "FPAR": 41
+            },
+            "Elevation": 9.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.60258178104704,
+                    25.8572848853893
+                ]
+            },
+            "id": "351",
+            "properties": {
+                "fromdate": "2020-10-17",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3213,
+                "EVI": 1878,
+                "LAI": 5,
+                "FPAR": 29
+            },
+            "Elevation": 357.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.29423596543856,
+                    23.680319570937943
+                ]
+            },
+            "id": "352",
+            "properties": {
+                "fromdate": "2019-04-19",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3239,
+                "EVI": 2032,
+                "LAI": 6,
+                "FPAR": 26
+            },
+            "Elevation": 183.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.62005185234916,
+                    10.149893481145616
+                ]
+            },
+            "id": "353",
+            "properties": {
+                "fromdate": "2024-02-24",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7071,
+                "EVI": 5507,
+                "LAI": 30,
+                "FPAR": 72
+            },
+            "Elevation": 170.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.88107845583642,
+                    11.914887472988648
+                ]
+            },
+            "id": "354",
+            "properties": {
+                "fromdate": "2023-01-14",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": null,
+                "EVI": null,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 0.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.10430393013496,
+                    19.53754847666074
+                ]
+            },
+            "id": "355",
+            "properties": {
+                "fromdate": "2021-11-19",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6530,
+                "EVI": 3436,
+                "LAI": 11,
+                "FPAR": 48
+            },
+            "Elevation": 629.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.96167631311043,
+                    25.196763057779908
+                ]
+            },
+            "id": "356",
+            "properties": {
+                "fromdate": "2024-04-27",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2770,
+                "EVI": 2113,
+                "LAI": 4,
+                "FPAR": 20
+            },
+            "Elevation": 68.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.18804485124096,
+                    11.453888750365007
+                ]
+            },
+            "id": "357",
+            "properties": {
+                "fromdate": "2021-12-16",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 8388,
+                "EVI": 3772,
+                "LAI": 53,
+                "FPAR": 88
+            },
+            "Elevation": 603.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.28985411107016,
+                    22.02712110273765
+                ]
+            },
+            "id": "358",
+            "properties": {
+                "fromdate": "2023-08-17",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6681,
+                "EVI": 4212,
+                "LAI": 17,
+                "FPAR": 62
+            },
+            "Elevation": 212.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.91993181492948,
+                    26.517628086568678
+                ]
+            },
+            "id": "359",
+            "properties": {
+                "fromdate": "2024-08-03",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7822,
+                "EVI": 4577,
+                "LAI": 22,
+                "FPAR": 70
+            },
+            "Elevation": 58.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.97427248169205,
+                    25.141481434976875
+                ]
+            },
+            "id": "360",
+            "properties": {
+                "fromdate": "2021-02-11",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4626,
+                "EVI": 2362,
+                "LAI": 7,
+                "FPAR": 38
+            },
+            "Elevation": 44.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.18406036674101,
+                    26.95413005404749
+                ]
+            },
+            "id": "361",
+            "properties": {
+                "fromdate": "2024-06-22",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2361,
+                "EVI": 1719,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 99.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.32048071801346,
+                    34.950785784608215
+                ]
+            },
+            "id": "362",
+            "properties": {
+                "fromdate": "2024-09-11",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 508,
+                "EVI": 540,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 5861.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.84957494631954,
+                    25.11905616068178
+                ]
+            },
+            "id": "363",
+            "properties": {
+                "fromdate": "2023-02-13",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5214,
+                "EVI": 3133,
+                "LAI": 10,
+                "FPAR": 49
+            },
+            "Elevation": 50.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.5965931401644,
+                    17.156105316009434
+                ]
+            },
+            "id": "364",
+            "properties": {
+                "fromdate": "2020-12-24",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3572,
+                "EVI": 1786,
+                "LAI": 3,
+                "FPAR": 22
+            },
+            "Elevation": 174.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.266972900694,
+                    34.252148782582275
+                ]
+            },
+            "id": "365",
+            "properties": {
+                "fromdate": "2020-07-12",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 765,
+                "EVI": 582,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 4576.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.98527981465809,
+                    24.696484110979366
+                ]
+            },
+            "id": "366",
+            "properties": {
+                "fromdate": "2020-12-06",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2825,
+                "EVI": 1651,
+                "LAI": 4,
+                "FPAR": 24
+            },
+            "Elevation": 553.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.80629822298935,
+                    17.005482679927738
+                ]
+            },
+            "id": "367",
+            "properties": {
+                "fromdate": "2019-04-13",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2074,
+                "EVI": 972,
+                "LAI": 2,
+                "FPAR": 8
+            },
+            "Elevation": 532.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.35327803013882,
+                    24.153481691741458
+                ]
+            },
+            "id": "368",
+            "properties": {
+                "fromdate": "2019-05-13",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3889,
+                "EVI": 2771,
+                "LAI": 6,
+                "FPAR": 32
+            },
+            "Elevation": 180.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.22760473920941,
+                    28.395826435892598
+                ]
+            },
+            "id": "369",
+            "properties": {
+                "fromdate": "2023-06-24",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3221,
+                "EVI": 2081,
+                "LAI": 5,
+                "FPAR": 26
+            },
+            "Elevation": 168.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.97131354728825,
+                    35.27903071467996
+                ]
+            },
+            "id": "370",
+            "properties": {
+                "fromdate": "2019-07-11",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": -756,
+                "EVI": -703,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 5265.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.46128817058477,
+                    34.94103067934616
+                ]
+            },
+            "id": "371",
+            "properties": {
+                "fromdate": "2019-04-07",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 448,
+                "EVI": 367,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 3338.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.5549022053318,
+                    10.105053109458074
+                ]
+            },
+            "id": "372",
+            "properties": {
+                "fromdate": "2020-04-24",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4335,
+                "EVI": 2876,
+                "LAI": 10,
+                "FPAR": 41
+            },
+            "Elevation": 291.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.69684817771969,
+                    21.620032617326547
+                ]
+            },
+            "id": "373",
+            "properties": {
+                "fromdate": "2022-01-25",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7511,
+                "EVI": 3628,
+                "LAI": 20,
+                "FPAR": 69
+            },
+            "Elevation": 402.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.19505298930174,
+                    25.002962923291047
+                ]
+            },
+            "id": "374",
+            "properties": {
+                "fromdate": "2024-06-11",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 3658,
+                "EVI": 2376,
+                "LAI": 5,
+                "FPAR": 26
+            },
+            "Elevation": 481.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.48176672455617,
+                    26.228292184447582
+                ]
+            },
+            "id": "375",
+            "properties": {
+                "fromdate": "2023-12-31",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7451,
+                "EVI": 4942,
+                "LAI": 17,
+                "FPAR": 73
+            },
+            "Elevation": 241.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.16037765201705,
+                    11.933564601934233
+                ]
+            },
+            "id": "376",
+            "properties": {
+                "fromdate": "2021-08-14",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4781,
+                "EVI": 3366,
+                "LAI": 5,
+                "FPAR": 18
+            },
+            "Elevation": 789.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.63625594268116,
+                    9.858345365125766
+                ]
+            },
+            "id": "377",
+            "properties": {
+                "fromdate": "2023-12-22",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 8209,
+                "EVI": 6087,
+                "LAI": 2,
+                "FPAR": 16
+            },
+            "Elevation": 555.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.4130467216771,
+                    16.87580927636337
+                ]
+            },
+            "id": "378",
+            "properties": {
+                "fromdate": "2020-03-28",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2968,
+                "EVI": 1504,
+                "LAI": 3,
+                "FPAR": 15
+            },
+            "Elevation": 655.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.21069093837649,
+                    25.84262064630206
+                ]
+            },
+            "id": "379",
+            "properties": {
+                "fromdate": "2022-08-29",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 8356,
+                "EVI": 6244,
+                "LAI": 64,
+                "FPAR": 93
+            },
+            "Elevation": 43.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.95434707553922,
+                    35.30977290736054
+                ]
+            },
+            "id": "380",
+            "properties": {
+                "fromdate": "2020-07-04",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 747,
+                "EVI": 510,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 5102.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.86407543821448,
+                    11.607084744702538
+                ]
+            },
+            "id": "381",
+            "properties": {
+                "fromdate": "2021-07-22",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6117,
+                "EVI": 3120,
+                "LAI": 14,
+                "FPAR": 47
+            },
+            "Elevation": 225.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.27606570100322,
+                    26.39622230623249
+                ]
+            },
+            "id": "382",
+            "properties": {
+                "fromdate": "2022-04-18",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4948,
+                "EVI": 3160,
+                "LAI": 9,
+                "FPAR": 40
+            },
+            "Elevation": 56.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.38511500491063,
+                    21.766463318150766
+                ]
+            },
+            "id": "383",
+            "properties": {
+                "fromdate": "2021-03-31",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2157,
+                "EVI": 1145,
+                "LAI": 3,
+                "FPAR": 13
+            },
+            "Elevation": 313.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.63653780979965,
+                    26.59948330361459
+                ]
+            },
+            "id": "384",
+            "properties": {
+                "fromdate": "2023-06-03",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2806,
+                "EVI": 2139,
+                "LAI": 5,
+                "FPAR": 26
+            },
+            "Elevation": 103.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.43543162955162,
+                    20.54076391042293
+                ]
+            },
+            "id": "385",
+            "properties": {
+                "fromdate": "2022-01-22",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5136,
+                "EVI": 3058,
+                "LAI": 10,
+                "FPAR": 46
+            },
+            "Elevation": 239.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.26542601986816,
+                    21.618254141300444
+                ]
+            },
+            "id": "386",
+            "properties": {
+                "fromdate": "2020-01-03",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4850,
+                "EVI": 2464,
+                "LAI": 4,
+                "FPAR": 24
+            },
+            "Elevation": 279.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.13733369233982,
+                    16.36301380453696
+                ]
+            },
+            "id": "387",
+            "properties": {
+                "fromdate": "2019-12-02",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5590,
+                "EVI": 3531,
+                "LAI": 7,
+                "FPAR": 37
+            },
+            "Elevation": 548.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.69454655306978,
+                    20.84092303198863
+                ]
+            },
+            "id": "388",
+            "properties": {
+                "fromdate": "2019-01-25",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4406,
+                "EVI": 2646,
+                "LAI": 6,
+                "FPAR": 37
+            },
+            "Elevation": 317.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.21839990705274,
+                    27.310328594787908
+                ]
+            },
+            "id": "389",
+            "properties": {
+                "fromdate": "2022-09-19",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 5634,
+                "EVI": 3530,
+                "LAI": 14,
+                "FPAR": 64
+            },
+            "Elevation": 154.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.32199281100165,
+                    36.48886906883977
+                ]
+            },
+            "id": "390",
+            "properties": {
+                "fromdate": "2023-01-15",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": -250,
+                "EVI": -248,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 3806.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.55934799497564,
+                    28.70070766205829
+                ]
+            },
+            "id": "391",
+            "properties": {
+                "fromdate": "2022-10-13",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 1913,
+                "EVI": 1114,
+                "LAI": 2,
+                "FPAR": 14
+            },
+            "Elevation": 233.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.69687601210336,
+                    10.5654879914892
+                ]
+            },
+            "id": "392",
+            "properties": {
+                "fromdate": "2021-06-02",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 8188,
+                "EVI": 5267,
+                "LAI": 3,
+                "FPAR": 15
+            },
+            "Elevation": 395.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.72723068721685,
+                    26.839394616592628
+                ]
+            },
+            "id": "393",
+            "properties": {
+                "fromdate": "2024-05-18",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 6763,
+                "EVI": 3725,
+                "LAI": 30,
+                "FPAR": 75
+            },
+            "Elevation": 96.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.51905701002526,
+                    35.76310599848849
+                ]
+            },
+            "id": "394",
+            "properties": {
+                "fromdate": "2021-04-26",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": -272,
+                "EVI": -256,
+                "LAI": null,
+                "FPAR": null
+            },
+            "Elevation": 4508.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.02218055685569,
+                    20.27080525349952
+                ]
+            },
+            "id": "395",
+            "properties": {
+                "fromdate": "2022-03-01",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 4424,
+                "EVI": 2567,
+                "LAI": 3,
+                "FPAR": 23
+            },
+            "Elevation": 41.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.12208055073626,
+                    14.474381459287809
+                ]
+            },
+            "id": "396",
+            "properties": {
+                "fromdate": "2020-02-28",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2613,
+                "EVI": 1577,
+                "LAI": 3,
+                "FPAR": 22
+            },
+            "Elevation": 570.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.47077252812679,
+                    9.360621420437289
+                ]
+            },
+            "id": "397",
+            "properties": {
+                "fromdate": "2019-12-12",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 7029,
+                "EVI": 4488,
+                "LAI": 42,
+                "FPAR": 86
+            },
+            "Elevation": 29.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.1530256147013,
+                    28.635291943826854
+                ]
+            },
+            "id": "398",
+            "properties": {
+                "fromdate": "2020-11-25",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2039,
+                "EVI": 1227,
+                "LAI": 2,
+                "FPAR": 17
+            },
+            "Elevation": 239.0
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.36726058658569,
+                    25.66767893233157
+                ]
+            },
+            "id": "399",
+            "properties": {
+                "fromdate": "2022-11-11",
+                "severity": 0
+            },
+            "vegetation_indices": {
+                "NVDI": 2456,
+                "EVI": 1436,
+                "LAI": 3,
+                "FPAR": 23
+            },
+            "Elevation": 87.0
+        }
+    ]
+}
