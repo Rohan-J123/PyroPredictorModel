@@ -1,0 +1,23 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "geodesic": false,
+                "type": "Point",
+                "coordinates": [
+                    77.50213758503706,
+                    24.731808008639568
+                ]
+            },
+            "id": "2024303_+5568+1451",
+            "properties": {
+                "severity": 7480.493200000001,
+                "count": 1,
+                "fromdate": "2024-10-29",
+                "label": 1
+            }
+        }
+    ]
+}
