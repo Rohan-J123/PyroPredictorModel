@@ -4,7 +4,7 @@
         {
             "longitude": 74.48399827704746,
             "latitude": 15.043249397386361,
-            "fromdate": "2019-03-20",
+            "month": 3,
             "severity": 0,
             "ndvi": 7117,
             "evi": 3843,
@@ -27,7 +27,7 @@
         {
             "longitude": 82.44885481410843,
             "latitude": 26.072700038442502,
-            "fromdate": "2021-09-06",
+            "month": 9,
             "severity": 0,
             "ndvi": 4649,
             "evi": 3652,
@@ -50,7 +50,7 @@
         {
             "longitude": 72.18845356800077,
             "latitude": 24.0359875088612,
-            "fromdate": "2019-01-24",
+            "month": 1,
             "severity": 0,
             "ndvi": 5566,
             "evi": 3426,
@@ -73,7 +73,7 @@
         {
             "longitude": 74.8329250505039,
             "latitude": 21.065434581552523,
-            "fromdate": "2023-05-11",
+            "month": 5,
             "severity": 0,
             "ndvi": 1280,
             "evi": 369,
@@ -96,7 +96,7 @@
         {
             "longitude": 79.11894932900385,
             "latitude": 27.57869122585676,
-            "fromdate": "2019-07-06",
+            "month": 7,
             "severity": 0,
             "ndvi": 4057,
             "evi": 2499,
@@ -119,7 +119,7 @@
         {
             "longitude": 86.73064466953426,
             "latitude": 26.04263064628032,
-            "fromdate": "2021-09-21",
+            "month": 9,
             "severity": 0,
             "ndvi": 8309,
             "evi": 5426,
@@ -142,7 +142,7 @@
         {
             "longitude": 81.26427419790744,
             "latitude": 26.76138736269616,
-            "fromdate": "2023-02-27",
+            "month": 2,
             "severity": 0,
             "ndvi": 5497,
             "evi": 3529,
@@ -165,7 +165,7 @@
         {
             "longitude": 74.09582028837946,
             "latitude": 21.984806895534344,
-            "fromdate": "2020-06-16",
+            "month": 6,
             "severity": 0,
             "ndvi": 4350,
             "evi": 2834,
@@ -188,7 +188,7 @@
         {
             "longitude": 73.68573694949285,
             "latitude": 20.464730226414193,
-            "fromdate": "2024-09-26",
+            "month": 9,
             "severity": 0,
             "ndvi": 7952,
             "evi": 5308,
@@ -211,7 +211,7 @@
         {
             "longitude": 78.48403493775272,
             "latitude": 16.4135091933141,
-            "fromdate": "2024-04-26",
+            "month": 4,
             "severity": 0,
             "ndvi": 2303,
             "evi": 1416,
@@ -234,7 +234,7 @@
         {
             "longitude": 77.4238114666032,
             "latitude": 10.937984148655547,
-            "fromdate": "2023-01-27",
+            "month": 1,
             "severity": 0,
             "ndvi": 4223,
             "evi": 2428,
@@ -257,7 +257,7 @@
         {
             "longitude": 76.41661287457195,
             "latitude": 26.023172082688145,
-            "fromdate": "2021-08-17",
+            "month": 8,
             "severity": 0,
             "ndvi": 8548,
             "evi": 4757,
@@ -280,7 +280,7 @@
         {
             "longitude": 74.41880542737516,
             "latitude": 26.41354759465425,
-            "fromdate": "2022-08-18",
+            "month": 8,
             "severity": 0,
             "ndvi": 7569,
             "evi": 5754,
@@ -303,7 +303,7 @@
         {
             "longitude": 79.08754900013169,
             "latitude": 10.589509239067171,
-            "fromdate": "2022-09-24",
+            "month": 9,
             "severity": 0,
             "ndvi": 5148,
             "evi": 3969,
@@ -326,7 +326,7 @@
         {
             "longitude": 78.81101643484963,
             "latitude": 27.618370381966315,
-            "fromdate": "2021-11-23",
+            "month": 11,
             "severity": 0,
             "ndvi": 5879,
             "evi": 3892,
@@ -349,7 +349,7 @@
         {
             "longitude": 77.48493011759128,
             "latitude": 10.446282048088909,
-            "fromdate": "2020-03-27",
+            "month": 3,
             "severity": 0,
             "ndvi": 4479,
             "evi": 2893,
@@ -372,7 +372,7 @@
         {
             "longitude": 73.35323063992638,
             "latitude": 23.178646183712274,
-            "fromdate": "2019-03-09",
+            "month": 3,
             "severity": 0,
             "ndvi": 3205,
             "evi": 1838,
@@ -395,7 +395,7 @@
         {
             "longitude": 78.71827974490489,
             "latitude": 28.493498243580763,
-            "fromdate": "2023-03-09",
+            "month": 3,
             "severity": 0,
             "ndvi": 5899,
             "evi": 3573,
@@ -418,7 +418,7 @@
         {
             "longitude": 79.12129005489928,
             "latitude": 16.918414272518216,
-            "fromdate": "2021-11-21",
+            "month": 11,
             "severity": 0,
             "ndvi": 5319,
             "evi": 2939,
@@ -441,7 +441,7 @@
         {
             "longitude": 74.89172209507561,
             "latitude": 35.66274708017407,
-            "fromdate": "2024-11-02",
+            "month": 11,
             "severity": 0,
             "ndvi": 2529,
             "evi": 1391,
@@ -464,7 +464,7 @@
         {
             "longitude": 74.71931015066355,
             "latitude": 25.719653276886064,
-            "fromdate": "2024-09-22",
+            "month": 9,
             "severity": 0,
             "ndvi": 3845,
             "evi": 1951,
@@ -487,7 +487,7 @@
         {
             "longitude": 86.6252707129638,
             "latitude": 26.326691465177742,
-            "fromdate": "2023-08-08",
+            "month": 8,
             "severity": 0,
             "ndvi": 7802,
             "evi": 5680,
@@ -510,7 +510,7 @@
         {
             "longitude": 75.51485590072879,
             "latitude": 12.403654536251807,
-            "fromdate": "2020-01-30",
+            "month": 1,
             "severity": 0,
             "ndvi": 7738,
             "evi": 4323,
@@ -533,7 +533,7 @@
         {
             "longitude": 84.98737400388649,
             "latitude": 22.98272731423479,
-            "fromdate": "2021-07-06",
+            "month": 7,
             "severity": 0,
             "ndvi": 1640,
             "evi": 1197,
@@ -556,7 +556,7 @@
         {
             "longitude": 72.4470480948532,
             "latitude": 26.499860069256894,
-            "fromdate": "2021-09-16",
+            "month": 9,
             "severity": 0,
             "ndvi": 3593,
             "evi": 2583,
@@ -579,7 +579,7 @@
         {
             "longitude": 71.60582011091614,
             "latitude": 25.06330473572525,
-            "fromdate": "2021-06-17",
+            "month": 6,
             "severity": 0,
             "ndvi": 1307,
             "evi": 1001,
@@ -602,7 +602,7 @@
         {
             "longitude": 75.28920331661881,
             "latitude": 12.375465566276139,
-            "fromdate": "2021-09-17",
+            "month": 9,
             "severity": 0,
             "ndvi": 8416,
             "evi": 6352,
@@ -625,7 +625,7 @@
         {
             "longitude": 72.90492282937471,
             "latitude": 22.854641088044765,
-            "fromdate": "2023-02-22",
+            "month": 2,
             "severity": 0,
             "ndvi": 4747,
             "evi": 2879,
@@ -648,7 +648,7 @@
         {
             "longitude": 80.69433080821709,
             "latitude": 22.681041408716375,
-            "fromdate": "2023-12-25",
+            "month": 12,
             "severity": 0,
             "ndvi": 4168,
             "evi": 1826,
@@ -671,7 +671,7 @@
         {
             "longitude": 73.44686849461999,
             "latitude": 22.152781740780092,
-            "fromdate": "2019-10-28",
+            "month": 10,
             "severity": 0,
             "ndvi": 7019,
             "evi": 4536,
@@ -694,7 +694,7 @@
         {
             "longitude": 79.25758983277721,
             "latitude": 10.31673162917598,
-            "fromdate": "2022-02-24",
+            "month": 2,
             "severity": 0,
             "ndvi": 5397,
             "evi": 3260,
@@ -717,7 +717,7 @@
         {
             "longitude": 74.49541728379977,
             "latitude": 27.60567015391179,
-            "fromdate": "2021-11-27",
+            "month": 11,
             "severity": 0,
             "ndvi": 2725,
             "evi": 1772,
@@ -740,7 +740,7 @@
         {
             "longitude": 78.41106518223425,
             "latitude": 31.343322864871112,
-            "fromdate": "2021-06-10",
+            "month": 6,
             "severity": 0,
             "ndvi": 7400,
             "evi": 4810,
@@ -763,7 +763,7 @@
         {
             "longitude": 77.56319178927315,
             "latitude": 25.97109359070475,
-            "fromdate": "2021-10-20",
+            "month": 10,
             "severity": 0,
             "ndvi": 5309,
             "evi": 3177,
@@ -786,7 +786,7 @@
         {
             "longitude": 76.53570744769857,
             "latitude": 11.597452445174698,
-            "fromdate": "2024-04-05",
+            "month": 4,
             "severity": 0,
             "ndvi": 5476,
             "evi": 2729,
@@ -809,7 +809,7 @@
         {
             "longitude": 75.81615398291956,
             "latitude": 12.851942056776183,
-            "fromdate": "2020-07-08",
+            "month": 7,
             "severity": 0,
             "ndvi": 7227,
             "evi": 4803,
@@ -832,7 +832,7 @@
         {
             "longitude": 74.18107263604664,
             "latitude": 25.462015333075055,
-            "fromdate": "2022-01-13",
+            "month": 1,
             "severity": 0,
             "ndvi": 3495,
             "evi": 2014,
@@ -855,7 +855,7 @@
         {
             "longitude": 72.57702046756972,
             "latitude": 27.187088735122366,
-            "fromdate": "2019-07-20",
+            "month": 7,
             "severity": 0,
             "ndvi": 3163,
             "evi": 2038,
@@ -878,7 +878,7 @@
         {
             "longitude": 74.10803114849968,
             "latitude": 27.91537902552602,
-            "fromdate": "2023-06-29",
+            "month": 6,
             "severity": 0,
             "ndvi": 4049,
             "evi": 3347,
@@ -901,7 +901,7 @@
         {
             "longitude": 88.25323016056171,
             "latitude": 26.327109984212534,
-            "fromdate": "2019-10-16",
+            "month": 10,
             "severity": 0,
             "ndvi": 7641,
             "evi": 5021,
@@ -924,7 +924,7 @@
         {
             "longitude": 76.5113841203029,
             "latitude": 11.561922796285971,
-            "fromdate": "2020-09-01",
+            "month": 9,
             "severity": 0,
             "ndvi": 4361,
             "evi": 2203,
@@ -947,7 +947,7 @@
         {
             "longitude": 77.5506619849975,
             "latitude": 9.333254962485626,
-            "fromdate": "2022-12-27",
+            "month": 12,
             "severity": 0,
             "ndvi": 5899,
             "evi": 3562,
@@ -970,7 +970,7 @@
         {
             "longitude": 72.30146065126382,
             "latitude": 24.176990434333597,
-            "fromdate": "2024-08-19",
+            "month": 8,
             "severity": 0,
             "ndvi": 2289,
             "evi": 2131,
@@ -993,7 +993,7 @@
         {
             "longitude": 76.79671261254364,
             "latitude": 10.638773213954739,
-            "fromdate": "2021-09-13",
+            "month": 9,
             "severity": 0,
             "ndvi": 7029,
             "evi": 4379,
@@ -1016,7 +1016,7 @@
         {
             "longitude": 72.86692139001464,
             "latitude": 26.558261257998982,
-            "fromdate": "2023-11-20",
+            "month": 11,
             "severity": 0,
             "ndvi": 3322,
             "evi": 2104,
@@ -1039,7 +1039,7 @@
         {
             "longitude": 77.61793710835349,
             "latitude": 15.838560424576194,
-            "fromdate": "2020-10-14",
+            "month": 10,
             "severity": 0,
             "ndvi": 6106,
             "evi": 3899,
@@ -1062,7 +1062,7 @@
         {
             "longitude": 77.12928678921003,
             "latitude": 20.399794462705927,
-            "fromdate": "2024-07-20",
+            "month": 7,
             "severity": 0,
             "ndvi": 1788,
             "evi": 1620,
@@ -1085,7 +1085,7 @@
         {
             "longitude": 79.42378487911958,
             "latitude": 16.541668400410323,
-            "fromdate": "2021-02-06",
+            "month": 2,
             "severity": 0,
             "ndvi": 3555,
             "evi": 1595,
@@ -1108,7 +1108,7 @@
         {
             "longitude": 76.38401705570017,
             "latitude": 15.59864654659773,
-            "fromdate": "2021-12-03",
+            "month": 12,
             "severity": 0,
             "ndvi": 4773,
             "evi": 2768,
@@ -1131,7 +1131,7 @@
         {
             "longitude": 95.10512235841156,
             "latitude": 27.37367469723175,
-            "fromdate": "2021-02-05",
+            "month": 2,
             "severity": 0,
             "ndvi": 4082,
             "evi": 2145,
@@ -1154,7 +1154,7 @@
         {
             "longitude": 77.22969375839929,
             "latitude": 20.310864676558403,
-            "fromdate": "2023-08-23",
+            "month": 8,
             "severity": 0,
             "ndvi": 6908,
             "evi": 4656,
@@ -1177,7 +1177,7 @@
         {
             "longitude": 78.10184643237432,
             "latitude": 16.93149179638267,
-            "fromdate": "2023-03-06",
+            "month": 3,
             "severity": 0,
             "ndvi": 3539,
             "evi": 2259,
@@ -1200,7 +1200,7 @@
         {
             "longitude": 75.7647046202134,
             "latitude": 12.411387228550804,
-            "fromdate": "2020-08-27",
+            "month": 8,
             "severity": 0,
             "ndvi": 3933,
             "evi": 2418,
@@ -1223,7 +1223,7 @@
         {
             "longitude": 85.63110222186319,
             "latitude": 25.315270404621746,
-            "fromdate": "2019-04-03",
+            "month": 4,
             "severity": 0,
             "ndvi": 2760,
             "evi": 1533,
@@ -1246,7 +1246,7 @@
         {
             "longitude": 89.35758019708943,
             "latitude": 26.29309606070493,
-            "fromdate": "2019-01-05",
+            "month": 1,
             "severity": 0,
             "ndvi": 4131,
             "evi": 2393,
@@ -1269,7 +1269,7 @@
         {
             "longitude": 84.80212514601192,
             "latitude": 26.34631530376977,
-            "fromdate": "2024-07-07",
+            "month": 7,
             "severity": 0,
             "ndvi": 2070,
             "evi": 1592,
@@ -1292,7 +1292,7 @@
         {
             "longitude": 79.5699498413564,
             "latitude": 14.188385549738232,
-            "fromdate": "2020-05-22",
+            "month": 5,
             "severity": 0,
             "ndvi": 3396,
             "evi": 2135,
@@ -1315,7 +1315,7 @@
         {
             "longitude": 75.96388109234778,
             "latitude": 28.552361596737608,
-            "fromdate": "2021-11-19",
+            "month": 11,
             "severity": 0,
             "ndvi": 4182,
             "evi": 2817,
@@ -1338,7 +1338,7 @@
         {
             "longitude": 91.90754914162311,
             "latitude": 26.347694475057597,
-            "fromdate": "2019-02-07",
+            "month": 2,
             "severity": 0,
             "ndvi": 3206,
             "evi": 1651,
@@ -1361,7 +1361,7 @@
         {
             "longitude": 75.04720757267435,
             "latitude": 13.123092980447993,
-            "fromdate": "2021-05-09",
+            "month": 5,
             "severity": 0,
             "ndvi": 7239,
             "evi": 5798,
@@ -1384,7 +1384,7 @@
         {
             "longitude": 83.20681576470892,
             "latitude": 22.58882978199868,
-            "fromdate": "2022-06-13",
+            "month": 6,
             "severity": 0,
             "ndvi": 4123,
             "evi": 3401,
@@ -1407,7 +1407,7 @@
         {
             "longitude": 87.9076166922264,
             "latitude": 23.040268138610482,
-            "fromdate": "2019-11-09",
+            "month": 11,
             "severity": 0,
             "ndvi": 3229,
             "evi": 2063,
@@ -1430,7 +1430,7 @@
         {
             "longitude": 75.70195741905319,
             "latitude": 24.3936359128504,
-            "fromdate": "2019-07-05",
+            "month": 7,
             "severity": 0,
             "ndvi": 4402,
             "evi": 1801,
@@ -1453,7 +1453,7 @@
         {
             "longitude": 77.82518370298821,
             "latitude": 16.779301765748368,
-            "fromdate": "2020-05-24",
+            "month": 5,
             "severity": 0,
             "ndvi": 2778,
             "evi": 1870,
@@ -1476,7 +1476,7 @@
         {
             "longitude": 75.40273479410757,
             "latitude": 24.57604435022354,
-            "fromdate": "2021-12-29",
+            "month": 12,
             "severity": 0,
             "ndvi": 5143,
             "evi": 2610,
@@ -1499,7 +1499,7 @@
         {
             "longitude": 69.96184321027383,
             "latitude": 22.29541772346127,
-            "fromdate": "2019-08-13",
+            "month": 8,
             "severity": 0,
             "ndvi": 2892,
             "evi": 1478,
@@ -1522,7 +1522,7 @@
         {
             "longitude": 84.37830095562808,
             "latitude": 22.667454462325246,
-            "fromdate": "2021-10-24",
+            "month": 10,
             "severity": 0,
             "ndvi": 6703,
             "evi": 3934,
@@ -1545,7 +1545,7 @@
         {
             "longitude": 75.04667519534519,
             "latitude": 20.297743707418565,
-            "fromdate": "2021-08-31",
+            "month": 8,
             "severity": 0,
             "ndvi": 2800,
             "evi": 2347,
@@ -1568,7 +1568,7 @@
         {
             "longitude": 79.85111327647923,
             "latitude": 25.952790030675715,
-            "fromdate": "2024-06-06",
+            "month": 6,
             "severity": 0,
             "ndvi": 1923,
             "evi": 1292,
@@ -1591,7 +1591,7 @@
         {
             "longitude": 74.80390021990898,
             "latitude": 24.643879826291773,
-            "fromdate": "2024-06-17",
+            "month": 6,
             "severity": 0,
             "ndvi": 2267,
             "evi": 2545,
@@ -1614,7 +1614,7 @@
         {
             "longitude": 74.4965175398497,
             "latitude": 29.02528251191727,
-            "fromdate": "2023-05-31",
+            "month": 5,
             "severity": 0,
             "ndvi": 1575,
             "evi": 1143,
@@ -1637,7 +1637,7 @@
         {
             "longitude": 94.3764078589743,
             "latitude": 26.86475303324617,
-            "fromdate": "2023-10-03",
+            "month": 10,
             "severity": 0,
             "ndvi": 6810,
             "evi": 4425,
@@ -1660,7 +1660,7 @@
         {
             "longitude": 69.21089248116341,
             "latitude": 22.96577944809112,
-            "fromdate": "2023-08-03",
+            "month": 8,
             "severity": 0,
             "ndvi": 3784,
             "evi": 4164,
@@ -1683,7 +1683,7 @@
         {
             "longitude": 70.95565044378205,
             "latitude": 26.68001450885544,
-            "fromdate": "2021-06-14",
+            "month": 6,
             "severity": 0,
             "ndvi": 1011,
             "evi": 750,
@@ -1706,7 +1706,7 @@
         {
             "longitude": 75.70173367476326,
             "latitude": 28.790299486110197,
-            "fromdate": "2020-06-26",
+            "month": 6,
             "severity": 0,
             "ndvi": 3226,
             "evi": 2365,
@@ -1729,7 +1729,7 @@
         {
             "longitude": 73.0035388950642,
             "latitude": 28.402450317955214,
-            "fromdate": "2020-10-08",
+            "month": 10,
             "severity": 0,
             "ndvi": 1723,
             "evi": 1255,
@@ -1752,7 +1752,7 @@
         {
             "longitude": 76.62524175867122,
             "latitude": 10.83689381445348,
-            "fromdate": "2021-03-25",
+            "month": 3,
             "severity": 0,
             "ndvi": 6587,
             "evi": 4372,
@@ -1775,7 +1775,7 @@
         {
             "longitude": 74.2808369716641,
             "latitude": 20.200394481958817,
-            "fromdate": "2020-08-02",
+            "month": 8,
             "severity": 0,
             "ndvi": 8692,
             "evi": 6472,
@@ -1798,7 +1798,7 @@
         {
             "longitude": 76.42425600915135,
             "latitude": 9.301321543294524,
-            "fromdate": "2023-10-09",
+            "month": 10,
             "severity": 0,
             "ndvi": 7260,
             "evi": 5090,
@@ -1821,7 +1821,7 @@
         {
             "longitude": 78.22925326819741,
             "latitude": 9.602755729349553,
-            "fromdate": "2024-08-29",
+            "month": 8,
             "severity": 0,
             "ndvi": 3843,
             "evi": 2381,
@@ -1844,7 +1844,7 @@
         {
             "longitude": 73.80171837554553,
             "latitude": 29.006272835005785,
-            "fromdate": "2019-05-04",
+            "month": 5,
             "severity": 0,
             "ndvi": 1260,
             "evi": 818,
@@ -1867,7 +1867,7 @@
         {
             "longitude": 74.08846430826941,
             "latitude": 34.88063954463209,
-            "fromdate": "2022-06-12",
+            "month": 6,
             "severity": 0,
             "ndvi": 4879,
             "evi": 3332,
@@ -1890,7 +1890,7 @@
         {
             "longitude": 86.25314719636513,
             "latitude": 24.102554753682423,
-            "fromdate": "2021-01-24",
+            "month": 1,
             "severity": 0,
             "ndvi": 3547,
             "evi": 1774,
@@ -1913,7 +1913,7 @@
         {
             "longitude": 78.27514258863272,
             "latitude": 16.711774571173844,
-            "fromdate": "2022-09-10",
+            "month": 9,
             "severity": 0,
             "ndvi": 6383,
             "evi": 4678,
@@ -1936,7 +1936,7 @@
         {
             "longitude": 70.78272337906952,
             "latitude": 22.083102003402367,
-            "fromdate": "2021-11-21",
+            "month": 11,
             "severity": 0,
             "ndvi": 2244,
             "evi": 1259,
@@ -1959,7 +1959,7 @@
         {
             "longitude": 73.0888473101788,
             "latitude": 22.283432681273432,
-            "fromdate": "2019-03-22",
+            "month": 3,
             "severity": 0,
             "ndvi": 4637,
             "evi": 2754,
@@ -1982,7 +1982,7 @@
         {
             "longitude": 88.7171168734915,
             "latitude": 27.676863896121723,
-            "fromdate": "2022-02-24",
+            "month": 2,
             "severity": 0,
             "ndvi": 4899,
             "evi": 2244,
@@ -2005,7 +2005,7 @@
         {
             "longitude": 80.87231268964773,
             "latitude": 23.010992926232504,
-            "fromdate": "2020-01-25",
+            "month": 1,
             "severity": 0,
             "ndvi": 4601,
             "evi": 2122,
@@ -2028,7 +2028,7 @@
         {
             "longitude": 73.79769771140082,
             "latitude": 26.832809866151887,
-            "fromdate": "2023-06-25",
+            "month": 6,
             "severity": 0,
             "ndvi": 3482,
             "evi": 2665,
@@ -2051,7 +2051,7 @@
         {
             "longitude": 71.52704522010676,
             "latitude": 27.011471447711003,
-            "fromdate": "2023-05-03",
+            "month": 5,
             "severity": 0,
             "ndvi": 1178,
             "evi": 907,
@@ -2074,7 +2074,7 @@
         {
             "longitude": 81.50086062476635,
             "latitude": 18.68258128591923,
-            "fromdate": "2023-05-25",
+            "month": 5,
             "severity": 0,
             "ndvi": 5620,
             "evi": 3729,
@@ -2097,7 +2097,7 @@
         {
             "longitude": 77.69572042735072,
             "latitude": 10.727276390168573,
-            "fromdate": "2020-02-21",
+            "month": 2,
             "severity": 0,
             "ndvi": 2822,
             "evi": 1592,
@@ -2120,7 +2120,7 @@
         {
             "longitude": 78.63703345953999,
             "latitude": 26.936192163783648,
-            "fromdate": "2021-09-12",
+            "month": 9,
             "severity": 0,
             "ndvi": 7749,
             "evi": 5281,
@@ -2143,7 +2143,7 @@
         {
             "longitude": 79.67790049590894,
             "latitude": 25.02058483714991,
-            "fromdate": "2020-08-27",
+            "month": 8,
             "severity": 0,
             "ndvi": 7590,
             "evi": 5373,
@@ -2166,7 +2166,7 @@
         {
             "longitude": 86.6313992806974,
             "latitude": 23.38949557776595,
-            "fromdate": "2020-03-28",
+            "month": 3,
             "severity": 0,
             "ndvi": 4016,
             "evi": 2175,
@@ -2189,7 +2189,7 @@
         {
             "longitude": 75.4397594361274,
             "latitude": 20.43323784961278,
-            "fromdate": "2023-07-06",
+            "month": 7,
             "severity": 0,
             "ndvi": 3174,
             "evi": 2191,
@@ -2212,7 +2212,7 @@
         {
             "longitude": 83.25207166608762,
             "latitude": 22.518181492629132,
-            "fromdate": "2024-07-07",
+            "month": 7,
             "severity": 0,
             "ndvi": 1239,
             "evi": 1026,
@@ -2235,7 +2235,7 @@
         {
             "longitude": 79.28696603244354,
             "latitude": 26.408099268135928,
-            "fromdate": "2019-12-24",
+            "month": 12,
             "severity": 0,
             "ndvi": 5441,
             "evi": 3082,
@@ -2258,7 +2258,7 @@
         {
             "longitude": 73.53312925510663,
             "latitude": 23.171941303011987,
-            "fromdate": "2020-08-24",
+            "month": 8,
             "severity": 0,
             "ndvi": 8006,
             "evi": 5472,
@@ -2281,7 +2281,7 @@
         {
             "longitude": 81.80364001747152,
             "latitude": 24.9488489814102,
-            "fromdate": "2023-07-16",
+            "month": 7,
             "severity": 0,
             "ndvi": 3356,
             "evi": 2028,
@@ -2304,7 +2304,7 @@
         {
             "longitude": 80.04471070714906,
             "latitude": 25.34351391384665,
-            "fromdate": "2022-12-04",
+            "month": 12,
             "severity": 0,
             "ndvi": 3698,
             "evi": 2190,
@@ -2327,7 +2327,7 @@
         {
             "longitude": 85.29267453455675,
             "latitude": 23.2401415819935,
-            "fromdate": "2020-07-07",
+            "month": 7,
             "severity": 0,
             "ndvi": 6135,
             "evi": 4611,
@@ -2350,7 +2350,7 @@
         {
             "longitude": 85.57408535413856,
             "latitude": 25.477798464513214,
-            "fromdate": "2021-06-08",
+            "month": 6,
             "severity": 0,
             "ndvi": 2526,
             "evi": 2034,
@@ -2373,7 +2373,7 @@
         {
             "longitude": 71.91837563242589,
             "latitude": 26.22680791462618,
-            "fromdate": "2020-10-31",
+            "month": 10,
             "severity": 0,
             "ndvi": 1752,
             "evi": 1292,
@@ -2396,7 +2396,7 @@
         {
             "longitude": 76.70054712211474,
             "latitude": 16.34573870304606,
-            "fromdate": "2021-12-11",
+            "month": 12,
             "severity": 0,
             "ndvi": 3929,
             "evi": 2329,
@@ -2419,7 +2419,7 @@
         {
             "longitude": 77.64120849502636,
             "latitude": 16.75859718722266,
-            "fromdate": "2019-08-23",
+            "month": 8,
             "severity": 0,
             "ndvi": 4539,
             "evi": 3772,
@@ -2442,7 +2442,7 @@
         {
             "longitude": 77.53837807227627,
             "latitude": 16.67020024782151,
-            "fromdate": "2024-02-11",
+            "month": 2,
             "severity": 0,
             "ndvi": 3151,
             "evi": 1989,
@@ -2465,7 +2465,7 @@
         {
             "longitude": 75.99447985011247,
             "latitude": 20.692675735489967,
-            "fromdate": "2021-10-25",
+            "month": 10,
             "severity": 0,
             "ndvi": 5664,
             "evi": 2748,
@@ -2488,7 +2488,7 @@
         {
             "longitude": 81.03477645899238,
             "latitude": 22.940548836786594,
-            "fromdate": "2023-02-01",
+            "month": 2,
             "severity": 0,
             "ndvi": 3718,
             "evi": 1974,
@@ -2511,7 +2511,7 @@
         {
             "longitude": 85.83997512319252,
             "latitude": 26.063694527707646,
-            "fromdate": "2019-10-08",
+            "month": 10,
             "severity": 0,
             "ndvi": 1914,
             "evi": 1017,
@@ -2534,7 +2534,7 @@
         {
             "longitude": 74.1447933985554,
             "latitude": 28.275334993900927,
-            "fromdate": "2021-06-10",
+            "month": 6,
             "severity": 0,
             "ndvi": 1157,
             "evi": 829,
@@ -2557,7 +2557,7 @@
         {
             "longitude": 87.53041146651755,
             "latitude": 25.57357657481281,
-            "fromdate": "2021-09-20",
+            "month": 9,
             "severity": 0,
             "ndvi": 7086,
             "evi": 3720,
@@ -2580,7 +2580,7 @@
         {
             "longitude": 82.36367294211173,
             "latitude": 25.261899340874944,
-            "fromdate": "2023-05-19",
+            "month": 5,
             "severity": 0,
             "ndvi": 3289,
             "evi": 2399,
@@ -2603,7 +2603,7 @@
         {
             "longitude": 78.02203481660823,
             "latitude": 11.551929181723327,
-            "fromdate": "2024-10-07",
+            "month": 10,
             "severity": 0,
             "ndvi": 6173,
             "evi": 4952,
@@ -2626,7 +2626,7 @@
         {
             "longitude": 79.7402829204005,
             "latitude": 12.0035053868091,
-            "fromdate": "2023-03-19",
+            "month": 3,
             "severity": 0,
             "ndvi": 6362,
             "evi": 3911,
@@ -2649,7 +2649,7 @@
         {
             "longitude": 79.22565294767509,
             "latitude": 26.33856180799742,
-            "fromdate": "2019-05-22",
+            "month": 5,
             "severity": 0,
             "ndvi": 2182,
             "evi": 1459,
@@ -2672,7 +2672,7 @@
         {
             "longitude": 79.8687706717733,
             "latitude": 21.069026310936277,
-            "fromdate": "2023-07-05",
+            "month": 7,
             "severity": 0,
             "ndvi": 6592,
             "evi": 3855,
@@ -2695,7 +2695,7 @@
         {
             "longitude": 76.72763676503796,
             "latitude": 10.773392230048794,
-            "fromdate": "2022-10-02",
+            "month": 10,
             "severity": 0,
             "ndvi": 6566,
             "evi": 4162,
@@ -2718,7 +2718,7 @@
         {
             "longitude": 77.02427493114811,
             "latitude": 10.873518415395134,
-            "fromdate": "2021-11-25",
+            "month": 11,
             "severity": 0,
             "ndvi": 6107,
             "evi": 3944,
@@ -2741,7 +2741,7 @@
         {
             "longitude": 74.17976511021415,
             "latitude": 26.546876601089735,
-            "fromdate": "2022-06-12",
+            "month": 6,
             "severity": 0,
             "ndvi": 2411,
             "evi": 1772,
@@ -2764,7 +2764,7 @@
         {
             "longitude": 74.88107624982679,
             "latitude": 26.08984356949015,
-            "fromdate": "2022-07-27",
+            "month": 7,
             "severity": 0,
             "ndvi": 6131,
             "evi": 4138,
@@ -2787,7 +2787,7 @@
         {
             "longitude": 70.53477635552157,
             "latitude": 26.131299738113942,
-            "fromdate": "2019-08-28",
+            "month": 8,
             "severity": 0,
             "ndvi": 3908,
             "evi": 3182,
@@ -2810,7 +2810,7 @@
         {
             "longitude": 71.35278269729604,
             "latitude": 25.683208406258093,
-            "fromdate": "2021-05-04",
+            "month": 5,
             "severity": 0,
             "ndvi": 1279,
             "evi": 888,
@@ -2833,7 +2833,7 @@
         {
             "longitude": 81.45514596791186,
             "latitude": 23.012521513880316,
-            "fromdate": "2024-06-28",
+            "month": 6,
             "severity": 0,
             "ndvi": 1037,
             "evi": 947,
@@ -2856,7 +2856,7 @@
         {
             "longitude": 76.25098219360203,
             "latitude": 20.588909699714343,
-            "fromdate": "2024-01-29",
+            "month": 1,
             "severity": 0,
             "ndvi": 4432,
             "evi": 2939,
@@ -2879,7 +2879,7 @@
         {
             "longitude": 75.93717492942481,
             "latitude": 11.411117645352386,
-            "fromdate": "2021-02-01",
+            "month": 2,
             "severity": 0,
             "ndvi": 7364,
             "evi": 4044,
@@ -2902,7 +2902,7 @@
         {
             "longitude": 75.60903593702359,
             "latitude": 20.188223282707284,
-            "fromdate": "2019-06-08",
+            "month": 6,
             "severity": 0,
             "ndvi": 1876,
             "evi": 989,
@@ -2925,7 +2925,7 @@
         {
             "longitude": 75.96379789083844,
             "latitude": 26.382449410802625,
-            "fromdate": "2023-09-03",
+            "month": 9,
             "severity": 0,
             "ndvi": 4695,
             "evi": 2897,
@@ -2948,7 +2948,7 @@
         {
             "longitude": 80.1265190212879,
             "latitude": 26.059268768973503,
-            "fromdate": "2021-05-26",
+            "month": 5,
             "severity": 0,
             "ndvi": 2252,
             "evi": 1636,
@@ -2971,7 +2971,7 @@
         {
             "longitude": 74.82662187237312,
             "latitude": 26.707893424921565,
-            "fromdate": "2024-03-25",
+            "month": 3,
             "severity": 0,
             "ndvi": 2547,
             "evi": 1579,
@@ -2994,7 +2994,7 @@
         {
             "longitude": 84.97661379148961,
             "latitude": 25.09888570562222,
-            "fromdate": "2019-02-15",
+            "month": 2,
             "severity": 0,
             "ndvi": 5463,
             "evi": 3340,
@@ -3017,7 +3017,7 @@
         {
             "longitude": 74.44067600654704,
             "latitude": 26.227983854436488,
-            "fromdate": "2020-03-04",
+            "month": 3,
             "severity": 0,
             "ndvi": 4494,
             "evi": 3067,
@@ -3040,7 +3040,7 @@
         {
             "longitude": 70.53919523249851,
             "latitude": 23.208892773608092,
-            "fromdate": "2020-08-11",
+            "month": 8,
             "severity": 0,
             "ndvi": 3629,
             "evi": 2513,
@@ -3063,7 +3063,7 @@
         {
             "longitude": 70.95467950997534,
             "latitude": 26.019831920785993,
-            "fromdate": "2021-07-11",
+            "month": 7,
             "severity": 0,
             "ndvi": 1127,
             "evi": 783,
@@ -3086,7 +3086,7 @@
         {
             "longitude": 78.12650461531318,
             "latitude": 15.781673607322249,
-            "fromdate": "2021-11-22",
+            "month": 11,
             "severity": 0,
             "ndvi": 5724,
             "evi": 3690,
@@ -3109,7 +3109,7 @@
         {
             "longitude": 76.13564137951967,
             "latitude": 20.10427390113611,
-            "fromdate": "2019-12-07",
+            "month": 12,
             "severity": 0,
             "ndvi": 5557,
             "evi": 1689,
@@ -3132,7 +3132,7 @@
         {
             "longitude": 78.53943660157768,
             "latitude": 27.22590407438491,
-            "fromdate": "2022-02-28",
+            "month": 2,
             "severity": 0,
             "ndvi": 6971,
             "evi": 5077,
@@ -3155,7 +3155,7 @@
         {
             "longitude": 78.56594569414992,
             "latitude": 17.2562330945967,
-            "fromdate": "2020-05-07",
+            "month": 5,
             "severity": 0,
             "ndvi": 2879,
             "evi": 1975,
@@ -3178,7 +3178,7 @@
         {
             "longitude": 78.73622843887557,
             "latitude": 16.848715407623125,
-            "fromdate": "2024-10-17",
+            "month": 10,
             "severity": 0,
             "ndvi": 8209,
             "evi": 6948,
@@ -3201,7 +3201,7 @@
         {
             "longitude": 69.52339934752153,
             "latitude": 21.952524667214355,
-            "fromdate": "2019-08-12",
+            "month": 8,
             "severity": 0,
             "ndvi": 4224,
             "evi": 3045,
@@ -3224,7 +3224,7 @@
         {
             "longitude": 73.02407168714036,
             "latitude": 25.96841793398535,
-            "fromdate": "2019-11-13",
+            "month": 11,
             "severity": 0,
             "ndvi": 2760,
             "evi": 1695,
@@ -3247,7 +3247,7 @@
         {
             "longitude": 75.31142359876581,
             "latitude": 34.775385541118496,
-            "fromdate": "2019-09-20",
+            "month": 9,
             "severity": 0,
             "ndvi": 2539,
             "evi": 1559,
@@ -3270,7 +3270,7 @@
         {
             "longitude": 74.71561191408757,
             "latitude": 21.73424349346552,
-            "fromdate": "2021-02-16",
+            "month": 2,
             "severity": 0,
             "ndvi": 3383,
             "evi": 1766,
@@ -3293,7 +3293,7 @@
         {
             "longitude": 88.22943518029317,
             "latitude": 22.199033128589353,
-            "fromdate": "2021-12-07",
+            "month": 12,
             "severity": 0,
             "ndvi": 5103,
             "evi": 2434,
@@ -3316,7 +3316,7 @@
         {
             "longitude": 77.46920593896077,
             "latitude": 26.552250308364457,
-            "fromdate": "2022-03-11",
+            "month": 3,
             "severity": 0,
             "ndvi": 2336,
             "evi": 1572,
@@ -3339,7 +3339,7 @@
         {
             "longitude": 72.66596426562229,
             "latitude": 24.780886651867053,
-            "fromdate": "2023-07-11",
+            "month": 7,
             "severity": 0,
             "ndvi": 5190,
             "evi": 3905,
@@ -3362,7 +3362,7 @@
         {
             "longitude": 72.70792433598983,
             "latitude": 24.39476140322125,
-            "fromdate": "2022-11-23",
+            "month": 11,
             "severity": 0,
             "ndvi": 5757,
             "evi": 3226,
@@ -3385,7 +3385,7 @@
         {
             "longitude": 81.01413214346553,
             "latitude": 20.79519376842576,
-            "fromdate": "2021-01-28",
+            "month": 1,
             "severity": 0,
             "ndvi": 3271,
             "evi": 1753,
@@ -3408,7 +3408,7 @@
         {
             "longitude": 88.7413384135433,
             "latitude": 26.634790685826193,
-            "fromdate": "2022-04-24",
+            "month": 4,
             "severity": 0,
             "ndvi": 6659,
             "evi": 4596,
@@ -3431,7 +3431,7 @@
         {
             "longitude": 69.89488078308744,
             "latitude": 22.362521270616618,
-            "fromdate": "2023-06-29",
+            "month": 6,
             "severity": 0,
             "ndvi": 4000,
             "evi": 2372,
@@ -3454,7 +3454,7 @@
         {
             "longitude": 76.16152489033581,
             "latitude": 21.804108182616567,
-            "fromdate": "2021-06-08",
+            "month": 6,
             "severity": 0,
             "ndvi": 2063,
             "evi": 1026,
@@ -3477,7 +3477,7 @@
         {
             "longitude": 73.75867729568752,
             "latitude": 28.658960406364976,
-            "fromdate": "2020-09-27",
+            "month": 9,
             "severity": 0,
             "ndvi": 2367,
             "evi": 1737,
@@ -3500,7 +3500,7 @@
         {
             "longitude": 82.40548317359209,
             "latitude": 25.476888985882344,
-            "fromdate": "2022-11-05",
+            "month": 11,
             "severity": 0,
             "ndvi": 2592,
             "evi": 1436,
@@ -3523,7 +3523,7 @@
         {
             "longitude": 70.42162434400362,
             "latitude": 26.381437147338527,
-            "fromdate": "2021-01-26",
+            "month": 1,
             "severity": 0,
             "ndvi": 1307,
             "evi": 952,
@@ -3546,7 +3546,7 @@
         {
             "longitude": 84.91901960967797,
             "latitude": 26.254005122500377,
-            "fromdate": "2023-03-19",
+            "month": 3,
             "severity": 0,
             "ndvi": 3866,
             "evi": 2296,
@@ -3569,7 +3569,7 @@
         {
             "longitude": 75.76585049768828,
             "latitude": 28.00562333985293,
-            "fromdate": "2024-06-27",
+            "month": 6,
             "severity": 0,
             "ndvi": 5511,
             "evi": 4316,
@@ -3592,7 +3592,7 @@
         {
             "longitude": 70.23875591478848,
             "latitude": 23.222274017674764,
-            "fromdate": "2020-07-04",
+            "month": 7,
             "severity": 0,
             "ndvi": 4266,
             "evi": 2688,
@@ -3615,7 +3615,7 @@
         {
             "longitude": 77.42168115580706,
             "latitude": 9.35801621910556,
-            "fromdate": "2020-07-27",
+            "month": 7,
             "severity": 0,
             "ndvi": 5166,
             "evi": 2869,
@@ -3638,7 +3638,7 @@
         {
             "longitude": 71.42371068435386,
             "latitude": 23.633465998810365,
-            "fromdate": "2021-11-29",
+            "month": 11,
             "severity": 0,
             "ndvi": 3319,
             "evi": 2218,
